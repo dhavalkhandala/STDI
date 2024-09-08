@@ -1,0 +1,74 @@
+$$$$$$
+Hepatitis C
+
+######
+Introduction
+Hepatitis C is an infection caused by the hepatitis C virus (HCV) that attacks the liver and leads to inflammation. The World Health Organization (WHO) estimates that about 3% of the world’s population has been infected with HCV and that there are more than 170 million chronic carriers who are at risk of developing liver cirrhosis and/or liver cancer.
+
+######
+Sign And Symptoms
+Initial symptoms of hepatitis C are often extrahepatic, most commonly involving the joints, muscle, and skin. Examples include the following:
+@@@@@@
+Arthralgias
+@@@@@@
+Myalgias
+@@@@@@
+Paresthesias
+@@@@@@
+Pruritus
+@@@@@@
+Sicca syndrome
+@@@@@@
+Sensory neuropathy
+###
+Symptoms characteristic of complications from advanced or decompensated liver disease are related to synthetic dysfunction and portal hypertension, such as the following:
+@@@@@@
+Mental status changes (hepatic encephalopathy)
+@@@@@@
+Ankle edema and abdominal distention (ascites)
+@@@@@@
+Hematemesis or melena (variceal bleeding)
+
+######
+Test And Diagnosis
+Tests for detecting hepatitis C virus (HCV) infection include the following:
+@@@@@@
+Hepatitis C antibody testing:- Enzyme immunoassays (EIAs), rapid diagnostic tests (RDTs), and point-of-care tests (POCTs)
+@@@@@@
+Recombinant immunoblot assay
+@@@@@@
+Qualitative and quantitative assays for HCV RNA (based on polymerase chain reaction [PCR] or transmission-mediated amplification [TMA])
+@@@@@@
+HCV genotyping
+@@@@@@
+Serologic testing (essential mixed cryoglobulinemia is a common finding).
+
+######
+Treatment
+Combination antiviral therapy with interferon injection and oral ribavirin (Rebetol, Copegus, Ribasphere, RibaPak, Moderiba) has been the mainstay of hepatitis C treatment in the past. Unfortunately, interferon is not widely available globally, it is not always well tolerated, some virus genotypes respond better to interferon than others, many people who take interferon do not finish their treatment, and only 60% of patients respond to the treatment. This means that while hepatitis C is generally considered to be a curable disease, for many people this was not a reality.
+Pegylated interferon
+Interferons are a family of naturally occurring proteins that are produced by the body to fight viral infections.
+Both pegylated interferon alpha 2b and 2a; are given as a subcutaneous injection once a week
+A liver transplant may be recommended for persons who develop cirrhosis and liver cancer
+
+######
+Complications
+@@@@@@
+Liver cirrhosis
+@@@@@@
+Hepatoma (Liver cancer)
+
+######
+Preventions
+@@@@@@
+Health care workers should follow precautions when handling blood.
+@@@@@@
+Do not share needles with anyone.
+@@@@@@
+Do not get tattoos or body piercings or receive acupuncture from someone who does not have a permit or license.
+@@@@@@
+Do not share personal items such as razors and toothbrushes.
+@@@@@@
+Use a latex condom every time you have sex.
+@@@@@@
+Don't donate blood or tissue if you’re infected.

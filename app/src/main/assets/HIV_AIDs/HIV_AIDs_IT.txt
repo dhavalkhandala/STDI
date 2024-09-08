@@ -1,0 +1,111 @@
+$$$$$$
+HIV / AIDS
+ 
+######
+introduzione
+Chiamato anche: sindrome da immunodeficienza acquisita, AIDS, HIV, virus dell'immunodeficienza umana
+L'HIV rappresenta il virus dell'immunodeficienza umana. Danneggia il tuo sistema immunitario distruggendo i globuli bianchi che combattono le infezioni. Questo ti mette a rischio di gravi infezioni e alcuni tipi di cancro.L'AIDS sta per sindrome da immunodeficienza acquisita. È l'ultima fase dell'infezione da HIV. Non tutti con l'HIV sviluppano l'AIDS.
+L'HIV si diffonde molto spesso attraverso il sesso non protetto con una persona infetta. Può anche diffondersi condividendo gli aghi di droga o attraverso il contatto con il sangue di una persona infetta. Le donne possono darlo ai loro bambini durante la gravidanza o il parto.
+I primi segni di infezione da HIV possono essere ghiandole gonfie e sintomi simil-influenzali. Questi possono andare e venire entro due o quattro settimane. I sintomi gravi possono non apparire fino a mesi o anni dopo.
+ 
+######
+Segno e sintomi
+Non puoi fare affidamento sui sintomi per dire se hai l'HIV. L'unico modo per sapere con certezza se hai l'HIV è quello di essere testato. Conoscere il tuo stato è importante perché ti aiuta a prendere decisioni salutari per evitare di ricevere o trasmettere l'HIV.
+I sintomi dell'HIV variano a seconda dell'individuo e in quale fase della malattia ci si trova: stadio iniziale, stadio clinico di latenza o AIDS (stadio tardivo dell'infezione da HIV). Di seguito sono riportati i sintomi che alcuni individui potrebbero sperimentare in queste tre fasi. Non tutti gli individui sperimenteranno questi sintomi.
+###
+Fase iniziale dell'HIV
+@@@@@@
+Febbre
+@@@@@@
+Brividi
+@@@@@@
+Eruzione cutanea
+@@@@@@
+Sudorazioni notturne
+@@@@@@
+Dolori muscolari
+@@@@@@
+Gola infiammata
+@@@@@@
+Fatica
+@@@@@@
+Linfonodi ingrossati
+@@@@@@
+Ulcere della bocca
+###
+Stage di latenza clinica
+Dopo la fase iniziale dell'infezione da HIV, la malattia si sposta in uno stadio chiamato stadio clinico di latenza (chiamato anche "infezione da HIV cronica"). Durante questa fase, l'HIV è ancora attivo ma si riproduce a livelli molto bassi. Le persone con infezione cronica da HIV potrebbero non avere sintomi correlati all'HIV o solo lievi. Per le persone che non assumono farmaci per il trattamento dell'HIV (chiamata terapia antiretrovirale o ART), questo periodo può durare un decennio o più, ma alcuni possono progredire attraverso questa fase più velocemente. Le persone che assumono farmaci per il trattamento dell'HIV e che assumono i loro farmaci nel modo giusto, ogni giorno, potrebbero essere in questa fase per diversi decenni perché il trattamento aiuta a tenere sotto controllo il virus. (Maggiori informazioni sul trattamento dell'HIV)
+ 
+######
+Progressione in AIDS
+Se hai l'HIV e non sei sulla ART, alla fine il virus indebolirà il sistema immunitario del tuo corpo e progredirai verso l'AIDS (sindrome da immunodeficienza acquisita), la fase tardiva dell'infezione da HIV.
+###
+I sintomi possono includere:
+@@@@@@
+Rapida perdita di peso
+@@@@@@
+Febbre ricorrente o abbondanti sudorazioni notturne
+@@@@@@
+Stanchezza estrema e inspiegabile
+@@@@@@
+Gonfiore prolungato delle ghiandole linfatiche sotto le ascelle, l'inguine o il collo
+@@@@@@
+Diarrea che dura per più di una settimana
+@@@@@@
+Sores della bocca, dell'ano o dei genitali
+@@@@@@
+Polmonite
+@@@@@@
+Macchie rosse, marroni, rosa o violacee su o sotto la pelle o all'interno della bocca, del naso o delle palpebre
+@@@@@@
+Perdita di memoria, depressione e altri disturbi neurologici
+ 
+######
+Test e diagnosi
+Diversi tipi di test possono essere utilizzati per lo screening dell'HIV:
+@@@@@@
+Test di combinazione dell'anticorpo dell'HIV e dell'antigene dell'HIV: - questo è il test di screening raccomandato per l'HIV. È disponibile solo come esame del sangue. Rileva l'antigene dell'HIV chiamato p24 più anticorpi contro l'HIV-1 e l'HIV-2. (L'HIV-1 è il tipo più comune trovato negli Stati Uniti, mentre l'HIV-2 ha una prevalenza maggiore in alcune parti dell'Africa.) Il livello di antigene p24 e la quantità di virus (carica virale) aumentano significativamente subito dopo l'infezione iniziale. Il test per p24 consente il rilevamento di infezioni precoci prima che venga prodotto l'anticorpo dell'HIV. Alcune settimane dopo l'esposizione, gli anticorpi anti-HIV sono prodotti in risposta all'infezione e rimangono rilevabili nel sangue in seguito, rendendo il test anticorpale utile per rilevare le infezioni settimane dopo l'esposizione. Rilevando sia l'anticorpo che l'antigene, il test combinato aumenta la probabilità che un'infezione venga rilevata subito dopo l'esposizione. Questi test sono in grado di rilevare le infezioni da HIV nella maggior parte delle persone entro 2-6 settimane dall'esposizione.
+@@@@@@
+Test degli anticorpi dell'HIV: - tutti i test sugli anticorpi dell'HIV utilizzati negli Stati Uniti rilevano l'HIV-1 e sono stati sviluppati alcuni test che possono anche rilevare l'HIV-2. Questi test sono disponibili come analisi del sangue o test del fluido orale. I test sugli anticorpi dell'HIV possono rilevare infezioni nella maggior parte delle persone 3-12 settimane dopo l'esposizione.
+@@@@@@
+test dell'antigene p24: - questo viene usato da solo senza il test degli anticorpi solo in rari casi in cui vi è una domanda sull'interferenza con un test degli anticorpi dell'HIV.
+@@@@@@
+Carico virale: - questo test misura la quantità di virus nel sangue. Gli studi hanno dimostrato che le persone con carichi virali più alti generalmente ottengono risultati più bassi rispetto a quelli con una carica virale più bassa
+@@@@@@
+Resistenza ai farmaci: - Questo esame del sangue determina se il ceppo dell'HIV che hai sarà resistente a certi farmaci anti-HIV
+ 
+######
+Trattamento
+All'inizio degli anni '80, quando iniziò l'epidemia di HIV / AIDS, i pazienti raramente vissero più a lungo di alcuni anni. Ma oggi ci sono molti farmaci efficaci per combattere l'infezione e le persone con HIV hanno vite più lunghe e più sane.
+###
+Esistono cinque principali tipi di farmaci:
+@@@@@@
+Inibitori della trascrittasi inversa (RT): - interferiscono con una fase critica durante il ciclo di vita dell'HIV e impediscono al virus di fare copie di se stesso
+@@@@@@
+Inibitori della proteasi: - interferiscono con una proteina che l'HIV usa per produrre particelle virali infettive
+@@@@@@
+Inibitori della fusione: - bloccano il virus dall'entrare nelle cellule del corpo
+@@@@@@
+Inibitori di Integrasi: - bloccano un enzima che l'HIV ha bisogno di fare copie di se stesso
+@@@@@@
+Combinazioni multidrug: - Combina due o più diversi tipi di farmaci in uno
+Questi farmaci aiutano le persone con HIV, ma non sono perfetti. Non curano l'HIV / AIDS. Le persone con infezione da HIV hanno ancora il virus nei loro corpi. Possono ancora diffondere l'HIV ad altri attraverso non protetti
+ 
+######
+complicazioni
+L'infezione da HIV indebolisce il sistema immunitario, rendendoti altamente suscettibile a numerose infezioni e certi tipi di cancro
+Le comuni infezioni sono la tubercolosi, la salmonellosi, il citomegalovirus, la toxoplasmosi, la candidosi, la meningite criptococale
+I tumori sono il sarcoma di Koposi e i linfomi
+ 
+######
+Prevenzione
+@@@@@@
+Usa un nuovo preservativo ogni volta che fai sesso
+@@@@@@
+Considera la truvada della droga
+@@@@@@
+Se sei incinta, fai il test
+@@@@@@
+Utilizzare l'ago pulito
+@@@@@@
+Dillo ai tuoi partner

@@ -1,0 +1,74 @@
+$$$$$$
+Hepatitis C
+ 
+######
+Einführung
+Hepatitis C ist eine Infektion, die durch das Hepatitis-C-Virus (HCV) verursacht wird, das die Leber angreift und zu Entzündungen führt. Nach Schätzungen der Weltgesundheitsorganisation (WHO) sind etwa 3% der Weltbevölkerung mit HCV infiziert und es gibt mehr als 170 Millionen chronische Träger, die das Risiko haben, Leberzirrhose und / oder Leberkrebs zu entwickeln.
+ 
+######
+Zeichen und Symptome
+Die ersten Symptome der Hepatitis C sind oft extrahepatisch und betreffen meistens Gelenke, Muskeln und Haut. Beispiele sind die folgenden:
+@@@@@@
+Arthralgien
+@@@@@@
+Myalgien
+@@@@@@
+Parästhesien
+@@@@@@
+Pruritus
+@@@@@@
+Sicca-Syndrom
+@@@@@@
+Sensorische Neuropathie
+###
+Symptome, die für Komplikationen bei fortgeschrittener oder dekompensierter Lebererkrankung charakteristisch sind, hängen mit synthetischen Dysfunktionen und portaler Hypertonie zusammen, wie zum Beispiel:
+@@@@@@
+Geistige Statusveränderungen (hepatische Enzephalopathie)
+@@@@@@
+Knöchelödem und Bauchdehnung (Aszites)
+@@@@@@
+Hämatemese oder Melena (Varizenblutung)
+ 
+######
+Test und Diagnose
+Zu den Tests zum Nachweis einer Hepatitis-C-Virus-Infektion (HCV) gehören folgende:
+@@@@@@
+Hepatitis-C-Antikörpertests: - Enzymimmuntests (EIAs), Schnelldiagnosetests (RDTs) und Point-of-Care-Tests (POCTs)
+@@@@@@
+Rekombinanter Immunoblot-Test
+@@@@@@
+Qualitative und quantitative Assays für HCV-RNA (basierend auf Polymerase-Kettenreaktion [PCR] oder Transmissions-vermittelter Amplifikation [TMA])
+@@@@@@
+HCV-Genotypisierung
+@@@@@@
+Serologische Tests (wesentliche gemischte Kryoglobulinämie ist ein verbreiteter Befund).
+ 
+######
+Behandlung
+Die antivirale Kombinationstherapie mit Interferon-Injektion und oralem Ribavirin (Rebetol, Copegus, Ribasphere, RibaPak, Moderiba) war in der Vergangenheit die Hauptstütze der Hepatitis-C-Behandlung. Leider ist Interferon nicht überall auf der Welt verfügbar, es wird nicht immer gut vertragen, einige Virusgenotypen sprechen besser auf Interferon an als andere, viele Menschen, die Interferon nehmen, beenden ihre Behandlung nicht und nur 60% der Patienten sprechen auf die Behandlung an. Dies bedeutet, dass Hepatitis C zwar allgemein als heilbare Krankheit gilt, für viele Menschen jedoch keine Realität war.
+Pegyliertes Interferon
+Interferone sind eine Familie von natürlich vorkommenden Proteinen, die vom Körper zur Bekämpfung von Virusinfektionen produziert werden.
+Beide pegyliertes Interferon alpha 2b und 2a; einmal wöchentlich als subkutane Injektion verabreicht
+Eine Lebertransplantation kann für Personen empfohlen werden, die an Leberzirrhose und Leberkrebs leiden
+ 
+######
+Komplikationen
+@@@@@@
+Leberzirrhose
+@@@@@@
+Hepatome (Leberkrebs)
+ 
+######
+Präventionen
+@@@@@@
+Mitarbeiter des Gesundheitswesens sollten beim Umgang mit Blut Vorsichtsmaßnahmen beachten.
+@@@@@@
+Teilen Sie die Nadeln nicht mit anderen.
+@@@@@@
+Erhalten Sie keine Tätowierungen oder Körperpiercings oder Akupunktur von jemandem, der keine Genehmigung oder Lizenz hat.
+@@@@@@
+Teilen Sie keine persönlichen Gegenstände wie Rasierer und Zahnbürsten.
+@@@@@@
+Verwenden Sie bei jedem Sex ein Latex-Kondom.
+@@@@@@
+Spenden Sie kein Blut oder Gewebe, wenn Sie infiziert sind.

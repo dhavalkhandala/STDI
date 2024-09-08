@@ -1,0 +1,106 @@
+$$$$$$
+Enfermedad inflamatoria pélvica
+
+######
+Introducción
+La enfermedad inflamatoria pélvica (EIP) comprende un espectro de trastornos inflamatorios del tracto genital femenino superior, que incluye cualquier combinación de endometritis, salpingitis, absceso tuboovárico y peritonitis pélvica.
+Los organismos de transmisión sexual, especialmente N. gonorrhoeae y C. trachomatis, están implicados en muchos casos.
+
+######
+Ruta de infeccion
+@@@@@@
+Infección ascendente por endocervicitis (gonorrea y clamidia)
+@@@@@@
+Condición GIT asociada a la propagación directa o linfática como apendicitis, colitis y diverticulitis
+@@@@@@
+Rara vez el tubo puede verse afectado por la extensión del hueso de la sangre.
+
+######
+Factores de riesgo
+Factores asociados con un mayor riesgo de EPI
+@@@@@@
+Mujeres jóvenes sexualmente activas.
+@@@@@@
+mujeres con pareja sexual múltiple
+@@@@@@
+El uso de dispositivos anticonceptivos intrauterinos se ha asociado con un aumento de la incidencia
+###
+Factores asociados a la disminución del riesgo de EPI
+@@@@@@
+Uso del método anticonceptivo de barrera.
+@@@@@@
+Las píldoras anticonceptivas orales se asocian con un riesgo significativamente bajo de EPI, probablemente a través de su efecto sobre el derramamiento endometrial regular, la disminución del flujo sanguíneo menstrual y el efecto progestacional sobre el moco cervical, lo que lo hace menos penetrable por las bacterias
+
+######
+Factores que facilitan la infección ascendente.
+@@@@@@
+Períodos menstruales debido a la degeneración del endometrio, la menstruación retrógrada y los cambios en el moco cervical.2 / 3 de los casos de EIP comienzan justo después de la menstruación
+@@@@@@
+Relaciones sexuales Las bacterias pueden ser empujadas dentro del cuello uterino durante el coito
+@@@@@@
+Procedimiento iatrogénico como inserción de DIU D y C, histerosalfingografía (HSG), histeroscopia y durante la prueba de permeabilidad de trompas de trompas.
+
+######
+Signo y síntomas
+Los criterios clínicos mínimos están presentes en el examen pélvico: en mujeres jóvenes sexualmente activas
+@@@@@@
+movimiento cervical ternura o
+@@@@@@
+ternura uterina o
+@@@@@@
+tendones anexos
+###
+Criterios adicionales:
+@@@@@@
+Temperatura oral> 101F (> 38.3C)
+@@@@@@
+Flujo mucopurulento cervical anormal o friabilidad cervical
+@@@@@@
+Presencia de abundantes números de GB en la microscopía salina de líquido vaginal
+@@@@@@
+Elevada tasa de sedimentación eritrocítica.
+@@@@@@
+proteína C reactiva elevada y
+@@@@@@
+Documentación aboratoria de infección cervical con N. gonorrhoeae o C. trachomatis.
+###
+Criterios específicos:
+@@@@@@
+Biopsia endometrial con evidencia histopatológica de endometritis.
+@@@@@@
+ecografía transvaginal o técnicas de imágenes por resonancia magnética que muestran tubos gruesos llenos de líquido con o sin fluido pélvico libre o complejo tubo-ovárico, o estudios Doppler que sugieren una infección pélvica (por ejemplo, hiperemia tubárica) o
+@@@@@@
+Hallazgos laparoscópicos consistentes con EPI
+
+######
+Prueba y diagnostico
+@@@@@@
+Tinción de Gram para la gonorrea
+@@@@@@
+Pruebas para detectar clamidia y anticuerpos gonorreicos
+@@@@@@
+Análisis de sangre: - aumento de GB y ESR
+@@@@@@
+El hallazgo del ultrasonido puede ser normal o inespecífico. TVS para excluir el embarazo ectópico, el mioma uterino y la inflamación ovárica
+@@@@@@
+La laparoscopia: - es el estándar de oro para confirmar el diagnóstico en caso de duda. Revelará hiperemia serosa de las trompas, edema de la pared de las trompas y exudados purulentos de las trompas de Falopio que se acumulan en el callejón sin salida.
+@@@@@@
+Culdocentesis: la aspiración de líquido purulento de la bolsa de douglas puede ayudar al diagnóstico.
+
+######
+Recomendación
+Las pruebas para el VIH y las enfermedades de transmisión sexual deben ofrecerse a todas las mujeres diagnosticadas con EIP.
+
+######
+Tratamiento
+IM, IV / régimen oral
+@@@@@@
+Dosis única de ceftiaxona IM de 250 mg
+@@@@@@
+Doxycycline 100 mg BID comprimidos durante 14 días
+@@@@@@
+Cefotetan 2 g IV cada 12 horas MÁS Doxycycline 100 mg por vía oral o IV cada 12 horas O
+@@@@@@
+Cefoxitina 2 g IV cada 6 horas MÁS Doxycycline 100 mg por vía oral o IV cada 12 horas O
+@@@@@@
+Clindamicina 900 mg IV cada 8 horas PLUS Gentamicina que carga la dosis IV o IM (2 mg / kg), seguida de una dosis de mantenimiento (1,5 mg / kg) cada 8 horas. La dosis diaria única (3-5 mg / kg) puede ser sustituida

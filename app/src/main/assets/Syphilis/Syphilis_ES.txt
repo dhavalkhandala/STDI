@@ -1,0 +1,95 @@
+$$$$$$
+Sífilis
+
+######
+Introducción
+La sífilis es una enfermedad de transmisión sexual causada por bacterias. Infecta el área genital, los labios, la boca o el ano de hombres y mujeres. Por lo general, se contagia la sífilis por contacto sexual con alguien que la tiene. También puede pasar de la madre al bebé durante el embarazo.
+La etapa temprana de la sífilis generalmente causa una llaga única, pequeña e indolora. A veces causa inflamación en los ganglios linfáticos cercanos. Si no lo trata, la sífilis generalmente causa una erupción cutánea que no causa picazón, a menudo en las manos y los pies. Muchas personas no notan síntomas durante años. Los síntomas pueden desaparecer y volver.
+Las llagas causadas por la sífilis hacen que sea más fácil contraer o contagiar el VIH a alguien durante el acto sexual. Si está embarazada, la sífilis puede causar defectos de nacimiento, o podría perder a su bebé. En casos raros, la sífilis causa serios problemas de salud e incluso la muerte.
+La sífilis es fácil de curar con antibióticos si se detecta temprano. El uso correcto de los condones de látex reduce en gran medida, pero no elimina completamente, el riesgo de contraer o propagar la sífilis.
+
+######
+Signo y síntomas
+Los síntomas de la sífilis en los adultos varían según la etapa: Etapa primaria Durante la primera etapa (primaria) de la sífilis, es posible que note una úlcera única o múltiples llagas. La llaga es la ubicación donde la sífilis entró en su cuerpo. Las llagas suelen ser (pero no siempre) firmes, redondas y sin dolor. Debido a que la llaga no duele, puede pasar desapercibida fácilmente. La úlcera generalmente dura de 3 a 6 semanas y se cura independientemente de si recibe o no tratamiento. Incluso después de que la & nbsp; llaga desaparezca, aún debe recibir tratamiento. Esto evitará que su infección se mueva a la etapa secundaria.
+Etapa secundaria Durante la etapa secundaria, puede tener erupciones en la piel y / o lesiones en la membrana mucosa. Las lesiones de la membrana mucosa son llagas en la boca, la vagina o el ano. Esta etapa generalmente comienza con una erupción en una o más áreas de su cuerpo. La erupción puede aparecer cuando su herida primaria está sanando o varias semanas después de que la úlcera haya sanado. La erupción puede verse como manchas ásperas, rojas o marrón rojizas en las palmas de las manos y / o en la parte inferior de los pies. La erupción por lo general no te pica y, a veces, es tan débil que no lo notarás. Otros síntomas que puede tener pueden incluir fiebre, ganglios linfáticos inflamados, dolor de garganta, pérdida de cabello en parches, dolores de cabeza, pérdida de peso, dolores musculares y fatiga (sensación de cansancio). Esta etapa desaparecerá si recibe o no tratamiento. Sin el tratamiento adecuado, su infección pasará a las etapas latente y posiblemente terciaria de la sífilis.
+Etapa latente La etapa latente de la sífilis es un período de tiempo en el que no hay signos o síntomas visibles de sífilis. Si no recibe tratamiento, puede continuar teniendo sífilis en su cuerpo durante años sin signos ni síntomas.
+Etapa terciaria La mayoría de las personas con sífilis no tratada no desarrollan sífilis terciaria. Sin embargo, cuando sucede, puede afectar a muchos sistemas orgánicos diferentes. Estos incluyen el corazón y los vasos sanguíneos, y el cerebro y el sistema nervioso. La sífilis terciaria es muy grave y se produciría 10 años después de que comenzara su infección. En la sífilis terciaria, la enfermedad daña sus órganos internos y puede causar la muerte.
+Neurosífilis y sífilis ocular Sin tratamiento, la sífilis se puede propagar al cerebro y al sistema nervioso (neurosífilis) o al ojo (sífilis ocular). Esto puede suceder durante cualquiera de las etapas descritas anteriormente.
+
+######
+Los síntomas de la neurosífilis incluyen:
+@@@@@@
+dolor de cabeza intenso
+@@@@@@
+dificultad para coordinar los movimientos musculares
+@@@@@@
+Parálisis (no es capaz de mover ciertas partes de su cuerpo)
+@@@@@@
+entumecimiento
+@@@@@@
+demencia (trastorno mental)
+
+######
+Prueba y diagnostico
+@@@@@@
+RPR (Rapid Plasma Reagin): además de la detección, esta prueba es útil para controlar el tratamiento de la sífilis. Para este propósito, se mide el nivel (título) de anticuerpo. También se puede usar para confirmar la presencia de una infección activa cuando una prueba inicial para anticuerpos treponémicos es positiva (ver más abajo).
+@@@@@@
+VDRL (Laboratorio de investigación de enfermedades venéreas): además de la sangre, esta prueba se realiza principalmente en el CSF para ayudar a diagnosticar la neurosífilis.
+@@@@@@
+Pruebas de anticuerpos treponémicos: - estas pruebas de sangre detectan anticuerpos que se dirigen específicamente a T. pallidum. Son muy específicos para la sífilis, lo que significa que es poco probable que otras condiciones causen un resultado positivo. Sin embargo, una vez que una persona está infectada y estos anticuerpos se desarrollan, permanecen en la sangre de por vida. En comparación, los anticuerpos no treponémicos generalmente desaparecen en una persona adecuadamente tratada después de aproximadamente 3 años. Por lo tanto, un resultado de detección treponémico positivo debe ir seguido de una prueba no treponémica (como RPR) para diferenciar entre una infección activa (o reinfección) y una que ocurrió en el pasado y se trató con éxito. Las pruebas de anticuerpos treponémicos incluyen:
+@@@
+FTA-ABS (Absorción de anticuerpos treponémicos fluorescentes): esta prueba es útil después de las primeras 3-4 semanas después de la exposición. Además de las pruebas de sangre, se puede usar para medir anticuerpos contra T. pallidum en el CSF para ayudar a diagnosticar la neurosífilis.
+@@@
+TP-PA (ensayo de aglutinación de partículas de T. pallidum): - esta prueba se realiza a veces en lugar de FTA-ABS porque es más específica y hay menos falsos positivos.
+@@@
+MHA-TP (ensayo de microhemaglutinación): - otro método de confirmación; esta prueba se usa mucho menos comúnmente ahora.
+@@@
+Inmunoensayos (IA): - en años más recientes, se han desarrollado varias pruebas automatizadas, lo que las hace convenientes para fines de detección.
+@@@@@@
+Detección directa de bacterias: - estas pruebas se realizan con menos frecuencia:
+@@@
+Microscopía de campo oscuro: este método se puede usar en las primeras etapas de la sífilis cuando existe una sospecha de úlcera de sífilis (chancro). Implica obtener un raspado de la úlcera, colocarlo en una diapositiva y examinarlo con un instrumento especial llamado microscopio de campo oscuro.
+@@@
+Prueba molecular (reacción en cadena de la polimerasa, PCR): esta prueba detecta material genético de las bacterias en la muestra de la úlcera, en la sangre o en el LCR.
+
+######
+Tratamiento
+Si ha estado infectado con sífilis durante menos de un año, una dosis única de penicilina suele ser suficiente para destruir la infección. Para aquellos alérgicos a la penicilina, pueden administrarse tetraciclina, doxiciclina u otro antibiótico. Si se encuentra en una etapa posterior de la enfermedad, se necesitarán más dosis.
+
+######
+Complicaciones
+@@@@@@
+La sífilis también aumenta el riesgo de infección por VIH
+###
+Pequeños bultos o tumores.
+@@@@@@
+Llamadas gomas, estas protuberancias pueden desarrollarse en la piel, los huesos, el hígado o cualquier otro órgano en la etapa tardía de la sífilis. Las gomas suelen desaparecer después del tratamiento con antibióticos.
+###
+Problemas neurologicos
+@@@@@@
+Carrera
+@@@@@@
+Meningitis
+@@@@@@
+Sordera
+@@@@@@
+Problemas visuales
+@@@@@@
+Demencia
+###
+Problemas cardiovasculares
+@@@@@@
+Estos pueden incluir abultamiento (aneurisma) e inflamación de la aorta y de otros vasos sanguíneos. La sífilis también puede dañar las válvulas del corazón.
+Embarazo y complicaciones del parto.
+@@@@@@
+Si está embarazada, puede transmitir la sífilis a su bebé por nacer. La sífilis congénita aumenta considerablemente el riesgo de aborto involuntario, parto sin partos o la muerte de su recién nacido pocos días después del nacimiento.
+
+######
+Prevención
+Para reducir su riesgo de infección por sífilis:
+@@@@@@
+Evite el contacto íntimo con una persona que sepa que está infectada.
+@@@@@@
+Si no sabe si una pareja sexual está infectada, use un condón en cada encuentro sexual.
+@@@@@@
+A la luz de los efectos a menudo mortales que la sífilis puede tener en los niños por nacer, los funcionarios de salud recomiendan que todas las mujeres embarazadas sean examinadas para detectar la enfermedad.

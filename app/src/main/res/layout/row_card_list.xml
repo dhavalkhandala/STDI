@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/cvMain"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:clickable="true"
+        android:focusable="true"
+        android:layout_marginStart="@dimen/margin_20"
+        android:layout_marginBottom="@dimen/margin_20"
+        android:layout_marginEnd="@dimen/margin_20"
+        android:layout_marginTop="@dimen/margin_20"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="@dimen/margin_20"
+        app:cardUseCompatPadding="true">
+
+    <LinearLayout
+            android:id="@+id/llMain"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="#999999"
+            android:paddingStart="@dimen/margin_20"
+            android:paddingEnd="@dimen/margin_20"
+            android:paddingTop="@dimen/margin_32"
+            android:paddingBottom="@dimen/margin_20">
+
+        <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tvTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_22"
+                android:textStyle="bold"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tvInfo"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:layout_marginTop="@dimen/margin_6"
+                android:layout_marginBottom="@dimen/margin_6"
+                android:paddingStart="@dimen/margin_12"
+                android:paddingEnd="@dimen/margin_12"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_16"
+                android:gravity="center_vertical"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tvReadMore"
+                android:layout_width="wrap_content"
+                android:layout_gravity="end"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="@dimen/margin_6"
+                android:background="@drawable/rounded_corners_white_300_fill"
+                android:text="@string/Read_More"
+                android:paddingStart="@dimen/margin_20"
+                android:paddingEnd="@dimen/margin_20"
+                android:paddingTop="@dimen/margin_6"
+                android:paddingBottom="@dimen/margin_6"
+                android:textSize="@dimen/text_size_16"
+                android:gravity="center_vertical"/>
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

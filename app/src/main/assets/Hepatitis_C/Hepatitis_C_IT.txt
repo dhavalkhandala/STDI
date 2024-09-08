@@ -1,0 +1,74 @@
+$$$$$$
+Epatite C
+ 
+######
+introduzione
+L'epatite C è un'infezione causata dal virus dell'epatite C (HCV) che attacca il fegato e porta all'infiammazione. L'Organizzazione Mondiale della Sanità (OMS) stima che circa il 3% della popolazione mondiale sia stata infettata dall'HCV e che ci siano più di 170 milioni di portatori cronici che sono a rischio di sviluppare cirrosi epatica e / o cancro al fegato.
+ 
+######
+Segno E Sintomi
+I sintomi iniziali dell'epatite C sono spesso extraepatici, più comunemente coinvolgono le articolazioni, i muscoli e la pelle. Gli esempi includono quanto segue:
+@@@@@@
+artralgie
+@@@@@@
+mialgie
+@@@@@@
+parestesie
+@@@@@@
+prurito
+@@@@@@
+Sindrome di Sicca
+@@@@@@
+Neuropatia sensoriale
+###
+I sintomi caratteristici delle complicanze da epatopatia avanzata o scompensata sono correlati a disfunzione sintetica e ipertensione portale, come i seguenti:
+@@@@@@
+Cambiamenti dello stato mentale (encefalopatia epatica)
+@@@@@@
+Edema alla caviglia e distensione addominale (ascite)
+@@@@@@
+Ematemesi o melena (sanguinamento delle varici)
+ 
+######
+Test e diagnosi
+I test per rilevare l'infezione da virus dell'epatite C (HCV) includono quanto segue:
+@@@@@@
+Test degli anticorpi contro l'epatite C: - Immunoanalisi enzimatica (EIA), test diagnostici rapidi (RDT) e test point-of-care (POCT)
+@@@@@@
+Saggio immunoblot ricombinante
+@@@@@@
+Saggi qualitativi e quantitativi per HCV RNA (basati sulla reazione a catena della polimerasi [PCR] o sull'amplificazione mediata dalla trasmissione [TMA])
+@@@@@@
+Genotipizzazione HCV
+@@@@@@
+Test sierologici (la crioglobulinemia mista essenziale è una constatazione comune).
+ 
+######
+Trattamento
+La terapia antivirale combinata con l'iniezione di interferone e la ribavirina orale (Rebetol, Copegus, Ribasphere, RibaPak, Moderiba) è stata la colonna portante del trattamento dell'epatite C in passato. Sfortunatamente, l'interferone non è ampiamente disponibile a livello globale, non è sempre ben tollerato, alcuni genotipi del virus rispondono meglio all'interferone rispetto ad altri, molte persone che assumono interferone non terminano il trattamento e solo il 60% dei pazienti risponde al trattamento. Ciò significa che mentre l'epatite C è generalmente considerata una malattia curabile, per molte persone questa non era una realtà.
+Interferone pegilato
+Gli interferoni sono una famiglia di proteine presenti in natura prodotte dall'organismo per combattere le infezioni virali.
+Sia l'interferone pegilato alfa 2b che 2a; vengono somministrati come iniezione sottocutanea una volta alla settimana
+Un trapianto di fegato può essere raccomandato per le persone che sviluppano cirrosi e cancro al fegato
+ 
+######
+complicazioni
+@@@@@@
+Cirrosi epatica
+@@@@@@
+Epatoma (cancro al fegato)
+ 
+######
+Prevenzioni
+@@@@@@
+Gli operatori sanitari dovrebbero seguire le precauzioni nel maneggiare il sangue.
+@@@@@@
+Non condividere gli aghi con nessuno.
+@@@@@@
+Non ottenere tatuaggi o piercing o ricevere l'agopuntura da qualcuno che non ha un permesso o licenza.
+@@@@@@
+Non condividere oggetti personali come rasoi e spazzolini da denti.
+@@@@@@
+Usa un preservativo in lattice ogni volta che fai sesso.
+@@@@@@
+Non donare sangue o tessuti se sei infetto.

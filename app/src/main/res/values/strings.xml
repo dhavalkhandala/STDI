@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name"> Sexually Transmitted Disease and Infections</string>
+
+    <string name="Rate_App">Rate App</string>
+    <string name="Share_App">Share App</string>
+    <string name="Read_More">Read More</string>
+    <string name="Read_again">Read again</string>
+
+    <!-- <string name="banner_id">b195f8dd8ded45fe847ad89ed1d016da</string>
+    <string name="intrestitial_id">24534e1901884e398f1253216226017e</string>-->
+
+    <string name="update_app_text">New version of the app is available on the play store. We recommend to update app
+        now.
+    </string>
+    <string name="Update">Update</string>
+    <string name="Text_to_Speech">Text to Speech</string>
+    <string name="Choose_Language_for_Reading">Choose Language for Reading</string>
+    <!-- <string name="ApplovinSDK">V0U8oymWOJRHObxWb_vmTF2gKvzw-HiCb4iGsJ73aSTM9T7Ll6t2BWWdOuF6r5IEMJ1-D4yE9P3RPHwOMy5doH</string>-->
+    <!--<string name="Applovin_SDK_Key">f10Kf2gwcuLxnp4r7HgVJL_BTGDcGBZpWf6MbwoPCRNQbsqZIHHnTNxHQnMwhUrwHDgpKlUPH88AViTitwTRX1</string>-->
+
+    <string name="lbl_premium_features_title">Premium Features</string>
+    <string name="lbl_premium_features">Premium Feature</string>
+    <string name="lbl_premium_features_subtitle">Unlock more:</string>
+    <string name="lbl_buy_now">Buy Now</string>
+    <string name="lbl_restore_purchase">Restore Purchase</string>
+    <string name="lbl_premium_features_description">* Lifetime Ad-free experience</string>
+
+</resources>

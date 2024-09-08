@@ -1,0 +1,95 @@
+$$$$$$
+Sifilide
+
+######
+introduzione
+La sifilide è una malattia a trasmissione sessuale causata da batteri. Infetta l'area genitale, le labbra, la bocca o l'ano di uomini e donne. Di solito prendi la sifilide dal contatto sessuale con qualcuno che ce l'ha. Può anche passare da madre a figlio durante la gravidanza.
+Lo stadio iniziale della sifilide di solito causa una singola, piccola, indolore indolenzimento. A volte provoca gonfiore nei linfonodi vicini. Se non lo tratti, la sifilide di solito provoca un'eruzione cutanea pruriginosa, spesso sulle mani e sui piedi. Molte persone non notano i sintomi da anni. I sintomi possono andare via e tornare indietro.
+Le ferite causate dalla sifilide rendono più facile ottenere o dare a qualcuno l'HIV durante il sesso. Se sei incinta, la sifilide può causare difetti alla nascita, oppure potresti perdere il bambino. In rari casi, la sifilide causa seri problemi di salute e persino la morte.
+La sifilide è facile da curare con gli antibiotici se la prendi presto. L'uso corretto dei preservativi in ​​lattice riduce notevolmente, ma non elimina completamente, il rischio di prendere o diffondere la sifilide.
+
+######
+Segno E Sintomi
+I sintomi della sifilide negli adulti variano a seconda dello stadio: Stadio primario Durante il primo stadio (primario) della sifilide, è possibile notare una singola ulcera o più piaghe. La piaga è il luogo in cui la sifilide è entrata nel tuo corpo. Le ferite sono solitamente (ma non sempre) ferme, rotonde e indolori. Poiché la piaga è indolore, può facilmente passare inosservata. La piaga dura in genere da 3 a 6 settimane e guarisce indipendentemente dal fatto che tu riceva o meno un trattamento. Anche dopo che la piaga si è conclusa, devi comunque ricevere un trattamento. Questo impedirà alla tua infezione di passare allo stadio secondario.
+Stadio secondario Durante la fase secondaria, si possono avere eruzioni cutanee e / o lesioni della membrana mucosa. Le lesioni delle membrane mucose sono piaghe nella bocca, nella vagina o nell'ano. Questo stadio di solito inizia con un'eruzione cutanea su una o più aree del tuo corpo. L'eruzione cutanea può manifestarsi quando la ferita primaria guarisce o alcune settimane dopo che la piaga è guarita. L'eruzione cutanea può apparire come macchie brune, rosse o rossastre sui palmi delle mani e / o sul fondo dei piedi. L'eruzione di solito ha vinto il prurito ed è a volte così debole che non lo noti. Altri sintomi che potresti avere possono includere febbre, linfonodi ingrossati, mal di gola, perdita di capelli a chiazze, mal di testa, perdita di peso, dolori muscolari e affaticamento (sensazione di stanchezza). Questa fase andrà via indipendentemente dal fatto che tu riceva o meno un trattamento. Senza il giusto trattamento, l'infezione passerà alle fasi latenti e possibilmente terziarie della sifilide.
+Stadio latente Lo stadio latente della sifilide è un periodo di tempo in cui non ci sono segni o sintomi visibili di sifilide. Se non si riceve un trattamento, è possibile continuare ad avere la sifilide nel corpo per anni senza alcun segno o sintomo.
+Fase terziaria La maggior parte delle persone con sifilide non trattata non sviluppa la sifilide terziaria. Tuttavia, quando accade, può influire su molti sistemi di organi diversi. Questi includono il cuore e i vasi sanguigni e il cervello e il sistema nervoso. La sifilide terziaria è molto grave e si verificherebbe 10 anni, 30 anni dopo l'inizio dell'infezione. Nella sifilide terziaria, la malattia danneggia gli organi interni e può provocare la morte.
+Neurosifilide e sifilide oculare Senza trattamento, la sifilide può diffondersi al cervello e al sistema nervoso (neurosifilide) o agli occhi (sifilide oculare). Questo può accadere durante una delle fasi sopra descritte.
+
+######
+I sintomi della neurosifilide includono:
+@@@@@@
+forte mal di testa
+@@@@@@
+difficoltà nel coordinare i movimenti muscolari
+@@@@@@
+paralisi (non è in grado di muovere alcune parti del tuo corpo)
+@@@@@@
+intorpidimento
+@@@@@@
+demenza (disturbo mentale)
+
+######
+Test e diagnosi
+@@@@@@
+RPR (Rapid Plasma Reagin): - oltre allo screening, questo test è utile per monitorare il trattamento della sifilide. A tale scopo, viene misurato il livello (titolo) dell'anticorpo. Può anche essere usato per confermare la presenza di un'infezione attiva quando un test iniziale per gli anticorpi treponemici è positivo (vedi sotto).
+@@@@@@
+VDRL (Venereal Disease Research Laboratory): - oltre al sangue, questo test viene eseguito principalmente su CSF per aiutare a diagnosticare la neurosifilide.
+@@@@@@
+Test degli anticorpi treponemici: - questi esami del sangue rilevano anticorpi che mirano specificamente a T. pallidum. Sono altamente specifici per la sifilide, il che significa che è improbabile che altre condizioni causino un risultato positivo. Tuttavia, una volta che una persona viene infettata e questi anticorpi si sviluppano, rimangono nel sangue per tutta la vita. Per confronto, gli anticorpi non-pentonali scompaiono tipicamente in una persona adeguatamente trattata dopo circa 3 anni. Pertanto, un risultato di screening treponemico positivo deve essere seguito da un test non treponemico (come RPR) per distinguere tra un'infezione attiva (o reinfezione) e una che si è verificata in passato e che è stata trattata con successo. I test degli anticorpi treponemici includono:
+@@@
+FTA-ABS (assorbimento dell'anticorpo treponemico fluorescente): - questo test è utile dopo le prime 3-4 settimane successive all'esposizione. Oltre all'analisi del sangue, può essere usato per misurare gli anticorpi contro T. pallidum nel CSF per aiutare a diagnosticare la neurosifilide.
+@@@
+TP-PA (test di agglutinazione delle particelle di pallidum T.): a volte questo test viene eseguito al posto di FTA-ABS perché è più specifico e presenta meno falsi positivi.
+@@@
+MHA-TP (saggio di microaggusione): - un altro metodo di conferma; questo test è usato molto meno comunemente ora.
+@@@
+Immunoassay (IA): - negli anni più recenti sono stati sviluppati numerosi test automatici che li rendono convenienti ai fini dello screening.
+@@@@@@
+Rilevazione diretta di batteri: - questi test sono eseguiti meno comunemente:
+@@@
+Microscopia nel campo oscuro: - questo metodo può essere utilizzato nelle prime fasi della sifilide quando è presente una presunta mal di sifilide (chancre). Si tratta di ottenere una raschiatura della piaga, di metterla su una diapositiva e di esaminarla con uno strumento speciale chiamato microscopio a campo oscuro.
+@@@
+Test molecolari (reazione a catena della polimerasi, PCR): - questo test rileva il materiale genetico dai batteri nel campione dalla piaga, nel sangue o nel liquido cerebrospinale.
+
+######
+Trattamento
+Se sei stato infettato da sifilide da meno di un anno, una singola dose di penicillina è in genere sufficiente a distruggere l'infezione. Per chi è allergico alla penicillina, possono invece essere somministrati la tetraciclina, la doxiciclina o un altro antibiotico. Se sei in una fase successiva della malattia, saranno necessarie più dosi.
+
+######
+complicazioni
+@@@@@@
+La sifilide aumenta anche il rischio di infezione da HIV
+###
+Piccoli urti o tumori
+@@@@@@
+Chiamati gomme, questi dossi possono svilupparsi sulla pelle, sulle ossa, sul fegato o su qualsiasi altro organo nella fase tardiva della sifilide. I gummi di solito scompaiono dopo il trattamento con antibiotici.
+###
+Problemi neurologici
+@@@@@@
+Ictus
+@@@@@@
+Meningite
+@@@@@@
+Sordità
+@@@@@@
+Problemi visivi
+@@@@@@
+Demenza
+###
+Problemi cardiovascolari
+@@@@@@
+Questi possono includere rigonfiamento (aneurisma) e infiammazione dell'aorta e di altri vasi sanguigni. La sifilide può anche danneggiare le valvole cardiache.
+Complicanze della gravidanza e del parto
+@@@@@@
+Se sei incinta, puoi passare la sifilide al tuo bambino non ancora nato. La sifilide congenita aumenta notevolmente il rischio di aborto spontaneo, di parto fermo o della morte del neonato entro pochi giorni dalla nascita.
+
+######
+Prevenzione
+Per ridurre il rischio di infezione da sifilide:
+@@@@@@
+Evita il contatto intimo con una persona che conosci infetta.
+@@@@@@
+Se non sai se un partner sessuale è infetto, usa il preservativo in ogni incontro sessuale.
+@@@@@@
+Alla luce degli effetti spesso mortali che la sifilide può avere sui bambini non ancora nati, i funzionari sanitari raccomandano che tutte le donne in gravidanza vengano sottoposte a screening per la malattia.

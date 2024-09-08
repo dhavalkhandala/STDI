@@ -1,0 +1,111 @@
+$$$$$$
+HIV / AIDS
+ 
+######
+Introdução
+Também chamado: síndrome da imunodeficiência adquirida, AIDS, HIV, vírus da imunodeficiência humana
+HIV significa vírus da imunodeficiência humana. Isso prejudica o sistema imunológico, destruindo os glóbulos brancos que combatem as infecções. Isso coloca você em risco de infecções graves e certos tipos de câncer.AIDS significa síndrome da imunodeficiência adquirida. É o estágio final da infecção pelo HIV. Nem todos com HIV desenvolvem AIDS.
+O HIV geralmente se espalha através de sexo desprotegido com uma pessoa infectada. Também pode se espalhar compartilhando agulhas de drogas ou através do contato com o sangue de uma pessoa infectada. As mulheres podem dar a seus bebês durante a gravidez ou o parto.
+Os primeiros sinais de infecção pelo HIV podem ser glândulas inchadas e sintomas semelhantes aos da gripe. Estes podem entrar e sair dentro de duas a quatro semanas. Sintomas graves podem não aparecer até meses ou anos depois.
+ 
+######
+Sinal e sintomas
+Você não pode confiar nos sintomas para dizer se tem HIV. A única maneira de saber com certeza se você tem HIV é fazer o teste. Conhecer o seu status é importante porque ajuda você a tomar decisões saudáveis para evitar contrair ou transmitir o HIV.
+Os sintomas do HIV variam, dependendo do indivíduo e em que estágio da doença você está: estágio inicial, estágio de latência clínica ou AIDS (estágio tardio da infecção pelo HIV). Abaixo estão os sintomas que alguns indivíduos podem experimentar nestes três estágios. Nem todos os indivíduos irão sentir esses sintomas.
+###
+Estágio Inicial do HIV
+@@@@@@
+Febre
+@@@@@@
+Arrepios
+@@@@@@
+Erupção cutânea
+@@@@@@
+Suor noturno
+@@@@@@
+Dores musculares
+@@@@@@
+Dor de garganta
+@@@@@@
+Fadiga
+@@@@@@
+Linfonodos inchados
+@@@@@@
+Úlceras na boca
+###
+Estágio de latência clínica
+Após o estágio inicial da infecção pelo HIV, a doença entra em um estágio chamado estágio de latência clínica (também chamado de "infecção crônica por HIV"). Durante este estágio, o HIV ainda está ativo, mas se reproduz em níveis muito baixos. Pessoas com infecção crônica pelo HIV podem não ter sintomas relacionados ao HIV, ou apenas sintomas leves. Para pessoas que não estão tomando remédios para tratar o HIV (chamado terapia anti-retroviral ou ART), esse período pode durar uma década ou mais, mas alguns podem progredir nesta fase mais rapidamente. As pessoas que tomam remédios para tratar o HIV e tomam seus remédios da maneira certa, todos os dias, podem estar nesse estágio por várias décadas, porque o tratamento ajuda a manter o vírus sob controle. (Leia mais sobre o tratamento do HIV)
+ 
+######
+Progressão para a AIDS
+Se você tem HIV e você não está em TARV, eventualmente o vírus enfraquecerá o sistema imunológico do seu corpo e você progredirá para a AIDS (síndrome da imunodeficiência adquirida), o estágio final da infecção pelo HIV.
+###
+Os sintomas podem incluir:
+@@@@@@
+Perda de peso rápida
+@@@@@@
+Febre recorrente ou suores nocturnos profusos
+@@@@@@
+Cansaço extremo e inexplicável
+@@@@@@
+Inchaço prolongado das glândulas linfáticas nas axilas, virilha ou pescoço
+@@@@@@
+Diarreia que dura mais de uma semana
+@@@@@@
+Feridas da boca, ânus ou genitais
+@@@@@@
+Pneumonia
+@@@@@@
+Manchas vermelhas, marrons, rosadas ou arroxeadas sobre ou sob a pele ou dentro da boca, nariz ou pálpebras
+@@@@@@
+Perda de memória, depressão e outros distúrbios neurológicos
+ 
+######
+Teste e Diagnóstico
+Diferentes tipos de testes podem ser utilizados para o rastreio do VIH:
+@@@@@@
+Anticorpo anti-HIV combinada e antígeno do HIV: - este é o teste de triagem recomendado para o HIV. Está disponível apenas como exame de sangue. Ele detecta o antígeno HIV chamado p24 mais anticorpos para HIV-1 e HIV-2. (O HIV-1 é o tipo mais comum encontrado nos Estados Unidos, enquanto o HIV-2 tem uma prevalência maior em partes da África.) O nível de antígeno p24 e a quantidade de vírus (carga viral) aumentam significativamente logo após a infecção inicial. O teste para p24 permite a detecção de infecções precoces, antes da produção do anticorpo para o HIV. Algumas semanas após a exposição, os anticorpos do HIV são produzidos em resposta à infecção e permanecem detectáveis no sangue a partir de então, tornando o teste de anticorpos útil para detectar infecções semanas após a exposição. Ao detectar tanto o anticorpo quanto o antígeno, o teste de combinação aumenta a probabilidade de que uma infecção seja detectada logo após a exposição. Estes testes podem detectar infecções por HIV na maioria das pessoas em 2-6 semanas após a exposição.
+@@@@@@
+Teste de anticorpos anti-VIH: - todos os testes de anticorpos anti-VIH utilizados nos EUA detectam o VIH-1 e foram desenvolvidos alguns testes que também podem detectar o VIH-2. Estes testes estão disponíveis como exames de sangue ou testes de fluido oral. Testes de anticorpos contra o HIV podem detectar infecções na maioria das pessoas 3-12 semanas após a exposição.
+@@@@@@
+Teste do antigénio p24: - este é utilizado sozinho sem o teste de anticorpos apenas em casos raros, quando existe uma questão sobre a interferência com um teste de anticorpos do VIH.
+@@@@@@
+Carga viral: - Este teste mede a quantidade de vírus no seu sangue. Estudos mostraram que pessoas com cargas virais mais altas geralmente se saem pior do que aquelas com carga viral mais baixa.
+@@@@@@
+Resistência a drogas: - Este exame de sangue determina se a cepa do HIV que você tem será resistente a certos medicamentos anti-HIV.
+ 
+######
+Tratamento
+No início dos anos 80, quando a epidemia do HIV / AIDS começou, os pacientes raramente viviam mais do que alguns anos. Mas hoje existem muitos remédios eficazes para combater a infecção, e pessoas com HIV têm vidas mais longas e saudáveis.
+###
+Existem cinco tipos principais de medicamentos:
+@@@@@@
+Inibidores da transcriptase reversa (RT): - interferem com um passo crítico durante o ciclo de vida do HIV e impedem que o vírus faça cópias de si mesmo
+@@@@@@
+Inibidores da protease: - interferem com uma proteína que o HIV usa para produzir partículas virais infecciosas
+@@@@@@
+Inibidores da fusão: - bloqueiam a entrada do vírus nas células do corpo
+@@@@@@
+Inibidores da integrase: - bloqueia uma enzima que o HIV precisa para fazer cópias de si
+@@@@@@
+Combinações de múltiplas drogas: - combinar dois ou mais tipos diferentes de drogas em um
+Estes medicamentos ajudam as pessoas com HIV, mas não são perfeitos. Eles não curam o HIV / AIDS. Pessoas com infecção pelo HIV ainda têm o vírus em seus corpos. Eles ainda podem espalhar o HIV para os outros através de desprotegidos
+ 
+######
+Complicações
+A infecção pelo HIV enfraquece o sistema imunológico, tornando-o altamente suscetível a inúmeras infecções e certos tipos de câncer
+As infecções comuns são TB, salmonelose, citomegalovírus, toxoplasmose, candidíase, meningite criptococal
+Os cânceres são o sarcoma e os linfomas do koposi
+ 
+######
+Prevenção
+@@@@@@
+Use um novo preservativo toda vez que você fizer sexo
+@@@@@@
+Considere a droga truvada
+@@@@@@
+Se estiver grávida, faça o teste
+@@@@@@
+Use agulha limpa
+@@@@@@
+Diga aos seus parceiros

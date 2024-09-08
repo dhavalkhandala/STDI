@@ -1,0 +1,74 @@
+$$$$$$
+Hépatite C
+ 
+######
+introduction
+L'hépatite C est une infection causée par le virus de l'hépatite C (VHC) qui attaque le foie et provoque une inflammation. L'Organisation mondiale de la santé (OMS) estime qu'environ 3% de la population mondiale a été infectée par le VHC et que plus de 170 millions de porteurs chroniques risquent de développer une cirrhose et / ou un cancer du foie.
+ 
+######
+Signe et symptômes
+Les premiers symptômes de l'hépatite C sont souvent extra-hépatiques et touchent le plus souvent les articulations, les muscles et la peau. Les exemples incluent les suivants:
+@@@@@@
+Arthralgies
+@@@@@@
+Myalgias
+@@@@@@
+Paresthésies
+@@@@@@
+Prurit
+@@@@@@
+Syndrome de Sicca
+@@@@@@
+Neuropathie sensorielle
+###
+Les symptômes caractéristiques des complications d'une maladie hépatique avancée ou décompensée sont liés à un dysfonctionnement synthétique et à une hypertension portale, tels que les suivants:
+@@@@@@
+Changements de statut mental (encéphalopathie hépatique)
+@@@@@@
+Œdème de la cheville et distension abdominale (ascite)
+@@@@@@
+Hématémèse ou méléna (saignement variqueux)
+ 
+######
+Test et diagnostic
+Les tests permettant de détecter l’infection par le virus de l’hépatite C (VHC) sont les suivants:
+@@@@@@
+Tests de détection des anticorps anti-hépatite C: - dosages immunoenzymatiques (EIA), tests de diagnostic rapide (TDR) et tests au point de service (POCT)
+@@@@@@
+Essai d'immunoblot recombinant
+@@@@@@
+Essais qualitatifs et quantitatifs pour l'ARN du VHC (basés sur la réaction en chaîne de la polymérase [PCR] ou l'amplification à médiation par transmission [TMA])
+@@@@@@
+Génotypage du VHC
+@@@@@@
+Tests sérologiques (une cryoglobulinémie mixte essentielle est une conclusion fréquente).
+ 
+######
+Traitement
+La thérapie antivirale combinée à l'injection d'interféron et à la ribavirine orale (Rebetol, Copegus, Ribasphere, RibaPak, Moderiba) a été le pilier du traitement de l'hépatite C dans le passé. Malheureusement, l'interféron n'est pas largement disponible dans le monde, il n'est pas toujours bien toléré, certains génotypes de virus répondent mieux à l'interféron que d'autres, beaucoup de personnes qui prennent de l'interféron ne terminent pas leur traitement et seulement 60% des patients répondent au traitement. Cela signifie que, bien que l’hépatite C soit généralement considérée comme une maladie curable, pour de nombreuses personnes, cela n’était pas une réalité.
+Interféron pégylé
+Les interférons sont une famille de protéines naturelles produites par l'organisme pour lutter contre les infections virales.
+Les deux interféron alpha 2b et 2a pégylés; sont administrés par injection sous-cutanée une fois par semaine
+Une greffe du foie peut être recommandée chez les personnes qui développent une cirrhose et un cancer du foie
+ 
+######
+Complications
+@@@@@@
+La cirrhose du foie
+@@@@@@
+Hépatome (cancer du foie)
+ 
+######
+Préventions
+@@@@@@
+Les travailleurs de la santé doivent suivre les précautions lors de la manipulation du sang.
+@@@@@@
+Ne partagez pas les aiguilles avec qui que ce soit.
+@@@@@@
+Ne vous faites pas tatouer ou percer, ni recevoir l’acupuncture de quelqu'un qui n’a pas de permis ou de licence.
+@@@@@@
+Ne partagez pas d'objets personnels tels que des rasoirs et des brosses à dents.
+@@@@@@
+Utilisez un préservatif en latex chaque fois que vous avez des relations sexuelles.
+@@@@@@
+Ne donnez pas de sang ou de tissus si vous êtes infecté.

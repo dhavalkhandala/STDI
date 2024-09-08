@@ -1,0 +1,106 @@
+$$$$$$
+Maladie inflammatoire pelvienne
+
+######
+introduction
+La maladie inflammatoire pelvienne (PID) comprend un éventail de troubles inflammatoires du tractus génital féminin supérieur, y compris toute combinaison d'endométrite, de salpingite, d'abcès tubo-ovarien et de péritonite pelvienne.
+Les organismes sexuellement transmissibles, notamment N. gonorrhoeae et C. trachomatis, sont impliqués dans de nombreux cas.
+
+######
+Voie d'infection
+@@@@@@
+Infection ascendante due à une endocervicite (gonorrhée et chlamydia)
+@@@@@@
+Une affection GIT associée à la propagation directe ou lymphatique telle que l'appendicite, la colite et la diverticulite
+@@@@@@
+Rarement le tube peut être affecté par l'extension du sang
+
+######
+Facteurs de risque
+Facteurs associés à un risque accru de MIP
+@@@@@@
+Jeunes femmes sexuellement actives
+@@@@@@
+femmes avec plusieurs partenaires sexuels
+@@@@@@
+L’utilisation d’un dispositif contraceptif intra-utérin a été associée à une incidence accrue
+###
+Facteurs associés à une diminution du risque de MIP
+@@@@@@
+Utilisation de la méthode de contraception barrière
+@@@@@@
+Les pilules contraceptives orales sont associées à un risque significativement faible de MIP probablement par ses effets sur l'excrétion régulière de l'endomètre, par une diminution du flux sanguin menstruel et par un effet progestatif sur la glaire cervicale, la rendant moins pénétrable par les bactéries.
+
+######
+Facteurs facilitant l'infection ascendante
+@@@@@@
+Les menstruations dues à la dégénérescence de l'endomètre, aux menstruations rétrogrades et aux modifications de la glaire cervicale.2 / 3 des cas de DIP commencent juste après les règles
+@@@@@@
+Rapports sexuels; les bactéries peuvent être poussées dans le col lors des rapports sexuels
+@@@@@@
+Procédure iatrogène comme insertion de DIU D et C, hystérosalphingographie (HSG), hystéroscopie et test de perméabilité tubaire du colorant.
+
+######
+Signe et symptômes
+Les critères cliniques minimaux sont présents à l’examen pelvien: chez les jeunes femmes sexuellement actives
+@@@@@@
+sensibilité au mouvement cervical ou
+@@@@@@
+tendresse utérine ou
+@@@@@@
+tendernes annexielles
+###
+Critères supplémentaires:
+@@@@@@
+température buccale> 101 ° F (> 38,3 ° C)
+@@@@@@
+écoulement mucopurulent cervical anormal ou friabilité cervicale
+@@@@@@
+présence de nombres abondants de leucocytes sur la microscopie saline du liquide vaginal
+@@@@@@
+taux élevé de sédimentation érythrocytaire
+@@@@@@
+protéine C-réactive élevée et
+@@@@@@
+documentation documentaire sur l’infection cervicale à N. gonorrhoeae ou C. trachomatis.
+###
+Critères spécifiques:
+@@@@@@
+biopsie de l'endomètre avec preuve histopathologique de l'endométrite
+@@@@@@
+des techniques d'échographie transvaginale ou d'imagerie par résonance magnétique montrant des tubes épaissis remplis de liquide avec ou sans liquide pelvien libre ou complexe tubo-ovarien, ou des études Doppler suggérant une infection pelvienne (par exemple une hyperhémie des trompes) ou
+@@@@@@
+résultats laparoscopiques compatibles avec le PID
+
+######
+Test et diagnostic
+@@@@@@
+Coloration de Gram pour la gonorrhée
+@@@@@@
+Recherche d'anticorps contre la chlamydia et la gonorrhée
+@@@@@@
+Prise de sang: - augmentation du nombre de leucocytes et de la VS
+@@@@@@
+Le résultat de l'échographie peut être normal ou non spécifique. TVS pour exclure la grossesse extra-utérine, le myome utérin et le gonflement de l'ovaire
+@@@@@@
+Laparascopie: - en cas de doute, c'est l'étalon-or qui confirme le diagnostic. Il révélera une hyperémie séreuse des trompes, un œdème de la paroi des trompes et des exsudats purulents des trompes de Fallope s’accumulant dans le cul-de-sac
+@@@@@@
+Culdocentèse: - le liquide purulent provenant de la poche de douglas peut aider au diagnostic.
+
+######
+Recommandation
+Le dépistage du VIH et des MST devrait être proposé à toutes les femmes chez lesquelles un diagnostic de MIP avait été diagnostiqué.
+
+######
+Traitement
+IM, schéma IV / oral
+@@@@@@
+Ceftiaxone IM à dose unique de 250 mg
+@@@@@@
+Doxycycline 100 mg BID comprimés pendant 14 jours
+@@@@@@
+Céfotétan 2 g IV toutes les 12 heures PLUS Doxycycline 100 mg par voie orale ou IV toutes les 12 heures OU
+@@@@@@
+Céfoxitine 2 g IV toutes les 6 heures PLUS Doxycycline 100 mg par voie orale ou IV toutes les 12 heures OU
+@@@@@@
+Clindamycine 900 mg IV toutes les 8 heures PLUS dose de base de gentamicine IV ou IM (2 mg / kg), suivie d'une dose d'entretien (1,5 mg / kg) toutes les 8 heures. Une posologie quotidienne unique (3-5 mg / kg) peut être substituée

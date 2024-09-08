@@ -1,0 +1,106 @@
+$$$$$$
+Beckenentzündung
+
+######
+Einführung
+Die entzündliche Beckenerkrankung des Beckens (PID) umfasst ein Spektrum entzündlicher Erkrankungen des oberen weiblichen Genitaltrakts, einschließlich einer Kombination von Endometritis, Salpingitis, Tubo-Ovarialabszess und Beckenperitonitis.
+In vielen Fällen sind sexuell übertragbare Organismen, insbesondere N. gonorrhoeae und C. trachomatis, beteiligt
+
+######
+Infektionsweg
+@@@@@@
+Aufsteigende Infektion durch Endocervicitis (Gonorrhoe und Chlamydien)
+@@@@@@
+Direkte oder lymphatische Ausbreitung in Verbindung mit GIT-Erkrankungen wie Appendizitis, Colitis und Divertikulitis
+@@@@@@
+In seltenen Fällen kann der Tubus von einer Verlängerung des Blutknochens betroffen sein
+
+######
+Risikofaktoren
+Faktoren, die mit einem erhöhten PID-Risiko verbunden sind
+@@@@@@
+Junge, sexuell aktive Frauen
+@@@@@@
+Frauen mit mehreren Sexualpartnern
+@@@@@@
+Die Verwendung einer Intrauterin-Empfängnisverhütungsvorrichtung wurde mit einer Zunahme der Inzidenz in Verbindung gebracht
+###
+Faktoren, die mit einem verringerten PID-Risiko verbunden sind
+@@@@@@
+Verwendung einer Barrieremethode zur Empfängnisverhütung
+@@@@@@
+Orale Kontrazeptiva sind mit einem signifikanten niedrigen Risiko für PID verbunden, wahrscheinlich aufgrund ihrer Wirkung auf die regelmäßige Abgabe des Endometriums, die Durchblutung der Menstruationsblutung und der Gestageneffekt auf den Zervixschleim, wodurch dieser für Bakterien weniger durchlässig wird
+
+######
+Faktoren, die eine aufsteigende Infektion erleichtern
+@@@@@@
+Menstruationsperioden aufgrund degenerierenden Endometriums, retrograder Menstruation und zervikaler Schleimveränderungen. 2/3 der PID-Fälle beginnen unmittelbar nach der Menstruation
+@@@@@@
+Geschlechtsverkehr; Bakterien können während des Geschlechtsverkehrs in den Gebärmutterhals geschoben werden
+@@@@@@
+Iatrogenes Verfahren als D- und C-IUD-Insertion, Hysterosalphingographie (HSG), Hysteroskopie und während des Durchgängigkeitstests von Farbstoffen.
+
+######
+Zeichen und Symptome
+Bei der Untersuchung des Beckens sind minimale klinische Kriterien vorhanden: bei sexuell aktiven jungen Frauen
+@@@@@@
+zervikale Bewegung Zärtlichkeit oder
+@@@@@@
+uterine Zärtlichkeit oder
+@@@@@@
+adnexe Tendern
+###
+Zusätzliche Kriterien:
+@@@@@@
+Mundtemperatur> 101 ° C (> 38,3 ° C)
+@@@@@@
+abnormer zervikaler mukopurulenter Ausfluss oder zervikale Fritabilität
+@@@@@@
+Vorhandensein einer großen Anzahl von Leukozyten bei der Salzmikroskopie von Vaginalflüssigkeit
+@@@@@@
+erhöhte Erythrozyten-Sedimentationsrate
+@@@@@@
+erhöhtes C-reaktives Protein und
+@@@@@@
+aboratorische Dokumentation einer zervikalen Infektion mit N. gonorrhoeae oder C. trachomatis.
+###
+Spezifische Kriterien:
+@@@@@@
+Endometriumbiopsie mit histopathologischem Nachweis einer Endometritis
+@@@@@@
+transvaginale Sonographie- oder Magnetresonanzbildgebungstechniken, die verdickte, mit Flüssigkeit gefüllte Röhrchen mit oder ohne freie Beckenflüssigkeit oder einen Tubo-Ovarialkomplex zeigen, oder Doppler-Studien, die auf eine Beckeninfektion (z. B. Tubushyperämie) oder
+@@@@@@
+laparoskopische Befunde im Einklang mit PID
+
+######
+Test und Diagnose
+@@@@@@
+Grammfleck für Gonorrhoe
+@@@@@@
+Test auf Chlamydien und Gonorrhoe-Antikörper
+@@@@@@
+Bluttest: - erhöhte Leukozytenzahl und erhöhte ESR
+@@@@@@
+Die Ultraschalluntersuchung kann normal oder unspezifisch sein. TVS zum Ausschluss von Eileiterschwangerschaft, Gebärmuttermyom und Schwellungen der Eierstöcke
+@@@@@@
+Laparascopy: - Es ist der Goldstandard, um die Diagnose im Zweifelsfall zu bestätigen. Es wird eine Tuben-Serosalhyperämie, ein Tubenwandödem und eitrige Ausscheidungen aus den Eileitern, die sich in der Sackgasse ansammeln, aufdecken
+@@@@@@
+Culdocentesis: - Das Aufsaugen von eitriger Flüssigkeit aus dem Beutel von Douglas kann die Diagnose unterstützen.
+
+######
+Empfehlung
+Tests auf HIV und sexuell übertragbare Krankheiten sollten allen Frauen angeboten werden, bei denen die PID diagnostiziert wurde.
+
+######
+Behandlung
+IM, IV / orale Therapie
+@@@@@@
+IM Ceftiaxon 250 mg Einzeldosis
+@@@@@@
+Doxycyclin 100 mg GEBOTtabletten für 14 Tage
+@@@@@@
+Cefotetan 2 g IV alle 12 Stunden PLUS Doxycyclin 100 mg oral oder IV alle 12 Stunden ODER
+@@@@@@
+Cefoxitin 2 g IV alle 6 Stunden PLUS Doxycyclin 100 mg oral oder IV alle 12 Stunden ODER
+@@@@@@
+Clindamycin 900 mg iv alle 8 Stunden PLUS Gentamicin-Ladedosis IV oder IM (2 mg / kg), gefolgt von einer Erhaltungsdosis (1,5 mg / kg) alle 8 Stunden. Eine einmalige tägliche Dosierung (3-5 mg / kg) kann ersetzt werden

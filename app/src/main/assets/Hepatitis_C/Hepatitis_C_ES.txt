@@ -1,0 +1,74 @@
+$$$$$$
+Hepatitis C
+ 
+######
+Introducción
+La hepatitis C es una infección causada por el virus de la hepatitis C (VHC) que ataca al hígado y causa inflamación. La Organización Mundial de la Salud (OMS) estima que aproximadamente el 3% de la población mundial ha sido infectada con el VHC y que hay más de 170 millones de portadores crónicos que corren el riesgo de desarrollar cirrosis hepática y / o cáncer de hígado.
+ 
+######
+Signo y síntomas
+Los síntomas iniciales de la hepatitis C son a menudo extrahepáticos, que suelen afectar las articulaciones, los músculos y la piel. Los ejemplos incluyen los siguientes:
+@@@@@@
+Artralgias
+@@@@@@
+Mialgias
+@@@@@@
+Parestesias
+@@@@@@
+Prurito
+@@@@@@
+Sindrome de sicca
+@@@@@@
+Neuropatía sensorial
+###
+Los síntomas característicos de las complicaciones de una enfermedad hepática avanzada o descompensada están relacionados con la disfunción sintética y la hipertensión portal, como las siguientes:
+@@@@@@
+Cambios en el estado mental (encefalopatía hepática)
+@@@@@@
+Edema de tobillo y distensión abdominal (ascitis).
+@@@@@@
+Hematemesis o melena (sangrado variceal)
+ 
+######
+Prueba y diagnostico
+Las pruebas para detectar la infección por el virus de la hepatitis C (VHC) incluyen lo siguiente:
+@@@@@@
+Pruebas de anticuerpos contra la hepatitis C: - inmunoensayos enzimáticos (EIA), pruebas diagnósticas rápidas (RDT) y pruebas en el punto de atención (POCT)
+@@@@@@
+Ensayo de inmunotransferencia recombinante
+@@@@@@
+Ensayos cualitativos y cuantitativos para el ARN del VHC (basado en la reacción en cadena de la polimerasa [PCR] o la amplificación mediada por transmisión [TMA])
+@@@@@@
+Genotipado del VHC
+@@@@@@
+Pruebas serológicas (un hallazgo frecuente es la crioglobulinemia mixta esencial).
+ 
+######
+Tratamiento
+La terapia antiviral combinada con inyección de interferón y ribavirina oral (Rebetol, Copegus, Ribasphere, RibaPak, Moderiba) ha sido el pilar del tratamiento de la hepatitis C en el pasado. Desafortunadamente, el interferón no está ampliamente disponible en todo el mundo, no siempre es bien tolerado, algunos genotipos de virus responden mejor al interferón que otros, muchas personas que toman interferón no terminan su tratamiento y solo el 60% de los pacientes responde al tratamiento. Esto significa que, si bien la hepatitis C generalmente se considera una enfermedad curable, para muchas personas esto no era una realidad.
+Interferón pegilado
+Los interferones son una familia de proteínas naturales que son producidas por el cuerpo para combatir infecciones virales.
+Ambos interferón pegilado alfa 2b y 2a; Se administran como inyección subcutánea una vez a la semana.
+Se puede recomendar un trasplante de hígado para las personas que desarrollan cirrosis y cáncer de hígado.
+ 
+######
+Complicaciones
+@@@@@@
+Cirrosis hepática
+@@@@@@
+Hepatoma (cáncer de hígado)
+ 
+######
+Prevenciones
+@@@@@@
+Los trabajadores de la salud deben seguir precauciones al manejar la sangre.
+@@@@@@
+No comparta agujas con nadie.
+@@@@@@
+No se haga tatuajes ni perforaciones en el cuerpo ni reciba acupuntura de alguien que no tenga un permiso o licencia.
+@@@@@@
+No comparta artículos personales tales como maquinillas de afeitar y cepillos de dientes.
+@@@@@@
+Use un condón de látex cada vez que tenga relaciones sexuales.
+@@@@@@
+No done sangre o tejido si está infectado.

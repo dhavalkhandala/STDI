@@ -1,0 +1,96 @@
+$$$$$$
+Syphilis
+
+######
+Introduction
+Syphilis is a sexually transmitted disease caused by bacteria. It infects the genital area, lips, mouth, or anus of both men and women. You usually get syphilis from sexual contact with someone who has it. It can also pass from mother to baby during pregnancy.
+The early stage of syphilis usually causes a single, small, painless sore. Sometimes it causes swelling in nearby lymph nodes. If you do not treat it, syphilis usually causes a non-itchy skin rash, often on your hands and feet. Many people do not notice symptoms for years. Symptoms can go away and come back.
+The sores caused by syphilis make it easier to get or give someone HIV during sex. If you are pregnant, syphilis can cause birth defects, or you could lose your baby. In rare cases, syphilis causes serious health problems and even death.
+Syphilis is easy to cure with antibiotics if you catch it early. Correct usage of latex condoms greatly reduces, but does not completely eliminate, the risk of catching or spreading syphilis.
+
+######
+Sign And Symptoms
+Symptoms of syphilis in adults vary by stage: Primary Stage During the first (primary) stage of syphilis, you may notice a single sore or multiple sores. The sore is the location where syphilis entered your body. Sores are usually (but not always) firm, round, and painless. Because the sore is painless, it can easily go unnoticed. The sore usually lasts 3 to 6 weeks and heals regardless of whether or not you receive treatment. Even after the&nbsp;sore goes away, you must still receive treatment. This will stop your infection from moving to the secondary stage.
+Secondary Stage During the secondary stage, you may have skin rashes and/or mucous membrane lesions. Mucous membrane lesions are sores in your mouth, vagina, or anus. This stage usually starts with a rash on one or more areas of your body. The rash can show up when your primary sore is healing or several weeks after the sore has healed. The rash can look like rough, red, or reddish brown spots on the palms of your hands and/or the bottoms of your feet. The rash usually won&rsquo;t itch and it is sometimes so faint that you won&rsquo;t notice it. Other symptoms you may have can include fever, swollen lymph glands, sore throat, patchy hair loss, headaches, weight loss, muscle aches, and fatigue (feeling very tired). The this stage will go away whether or not you receive treatment. Without the right treatment, your infection will move to the latent and possibly tertiary stages of syphilis.
+Latent Stage The latent stage of syphilis is a period of time when there are no visible signs or symptoms of syphilis. If you do not receive treatment, you can continue to have syphilis in your body for years without any signs or symptoms.
+Tertiary Stage Most people with untreated syphilis do not develop tertiary syphilis. However, when it does happen it can affect many different organ systems. These include the heart and blood vessels, and the brain and nervous system. Tertiary syphilis is very serious and would occur 10&ndash;30 years after your infection began. In tertiary syphilis, the disease damages your internal organs and can result in death.
+Neurosyphilis and Ocular Syphilis Without treatment, syphilis can spread to the brain and nervous system (neurosyphilis) or to the eye (ocular syphilis). This can happen during any of the stages described above.
+
+######
+Symptoms of neurosyphilis include:
+@@@@@@
+severe headache
+@@@@@@
+difficulty coordinating muscle movements
+@@@@@@
+paralysis (not able to move certain parts of your body)
+@@@@@@
+numbness
+@@@@@@
+dementia (mental disorder)
+
+######
+Test And Diagnosis
+@@@@@@
+RPR (Rapid Plasma Reagin):- in addition to screening, this test is useful in monitoring treatment for syphilis. For this purpose, the level (titer) of antibody is measured. It may also be used to confirm the presence of an active infection when an initial test for treponemal antibodies is positive (see below).
+@@@@@@
+VDRL (Venereal Disease Research Laboratory):- in addition to blood, this test is primarily performed on CSF to help diagnose neurosyphilis.
+@@@@@@
+Treponemal antibody tests:- these blood tests detect antibodies that specifically target T. pallidum. They are highly specificfor syphilis, meaning other conditions are unlikely to cause a positive result. However, once a person is infected and these antibodies develop, they remain in the blood for life. By comparison, nontreponemal antibodies typically disappear in an adequately treated person after about 3 years. Therefore, a positive treponemal screening result must be followed by a nontreponemal test (such as RPR) to differentiate between an active infection (or reinfection) and one that occurred in the past and was successfully treated. Treponemal antibody tests include:
+@@@
+FTA-ABS (Fluorescent treponemal antibody absorption):- this test is useful after the first 3-4 weeks following exposure. In addition to blood testing, it can be used to measure antibodies to T. pallidum in the CSF to help diagnose neurosyphilis.
+@@@
+TP-PA (T. pallidum particle agglutination assay):- this test is sometimes performed instead of FTA-ABS because it is more specific and there are fewer false positives.
+@@@
+MHA-TP (Microhemagglutination assay):- another confirmatory method; this test is used much less commonly now.
+@@@
+Immunoassays (IA):- in more recent years, several automated tests have been developed, making them convenient for screening purposes.
+@@@@@@
+Direct detection of bacteria:- these tests are less commonly performed:
+@@@
+Darkfield microscopy:- this method may be used in the early stages of syphilis when a suspected syphilis sore (chancre) is present. It involves obtaining a scraping of the sore, placing it on a slide, and examining it with a special instrument called a dark-field microscope.
+@@@
+Molecular testing (polymerase chain reaction, PCR):- this test detects genetic material from the bacteria in the sample from the sore, in blood, or in CSF.
+
+######
+Treatment
+If you've been infected with syphilis for less than a year, a single dose of penicillin is usually enough to destroy the infection. For those allergic to penicillin, tetracycline, doxycycline or another antibiotic can be given instead. If you are in a later stage of disease, more doses will be needed.
+
+######
+Complications
+@@@@@@
+Syphilis also increases the risk of HIV infection
+###
+Small bumps or tumors
+@@@@@@
+Called gummas, these bumps can develop on your skin, bones, liver or any other organ in the late stage of syphilis. Gummas usually disappear after treatment with antibiotics.
+###
+Neurological problems
+@@@@@@
+Stroke
+@@@@@@
+Meningitis
+@@@@@@
+Deafness
+@@@@@@
+Visual problems
+@@@@@@
+Dementia
+###
+Cardiovascular problems
+@@@@@@
+These may include bulging (aneurysm) and inflammation of the aorta and of other blood vessels. Syphilis may also damage heart valves.
+Pregnancy and childbirth complications
+@@@@@@
+If you're pregnant, you may pass syphilis to your unborn baby. Congenital syphilis greatly increases the risk of miscarriage, still birth or your new born's death within a few days after birth.
+
+######
+Prevention
+To reduce your risk of syphilis infection:
+@@@@@@
+Avoid intimate contact with a person you know is infected.
+@@@@@@
+If you do not know if a sexual partner is infected, use a condom in every sexual encounter.
+@@@@@@
+In light of the often deadly effects syphilis can have on unborn children, health officials recommend that all pregnant women be screened for the disease.
+

@@ -1,0 +1,95 @@
+$$$$$$
+Syphilis
+
+######
+introduction
+La syphilis est une maladie sexuellement transmissible causée par une bactérie. Il infecte la région génitale, les lèvres, la bouche ou l'anus des hommes et des femmes. La syphilis est généralement causée par un contact sexuel avec une personne qui en est atteinte. Il peut également passer de la mère au bébé pendant la grossesse.
+Le stade précoce de la syphilis provoque généralement une seule petite plaie indolore. Parfois, il provoque un gonflement des ganglions lymphatiques à proximité. Si vous ne la soignez pas, la syphilis provoque généralement une éruption cutanée ne provoquant pas de démangeaisons, souvent aux mains et aux pieds. Beaucoup de gens ne remarquent pas de symptômes pendant des années. Les symptômes peuvent disparaître et revenir.
+Les plaies causées par la syphilis facilitent la transmission du VIH lors de rapports sexuels. Si vous êtes enceinte, la syphilis peut causer des anomalies congénitales ou vous pouvez perdre votre bébé. Dans de rares cas, la syphilis provoque de graves problèmes de santé et même la mort.
+La syphilis est facile à soigner avec des antibiotiques si vous l'attrapez tôt. L'utilisation correcte des préservatifs en latex réduit considérablement, mais n'élimine pas complètement, le risque de contracter ou de propager la syphilis.
+
+######
+Signe et symptômes
+Les symptômes de la syphilis chez l’adulte varient selon les stades: Stade primaire Au cours du premier stade (primaire) de la syphilis, vous pouvez observer une seule plaie ou des plaies multiples. La plaie est l'endroit où la syphilis est entrée dans votre corps. Les plaies sont généralement (mais pas toujours) fermes, rondes et indolores. Parce que la plaie est indolore, elle peut facilement passer inaperçue. La plaie dure généralement de 3 à 6 semaines et guérit, que vous receviez ou non un traitement. Même après le départ de la plaie, vous devez toujours recevoir un traitement. Cela empêchera votre infection de passer au stade secondaire.
+Stade secondaire Au stade secondaire, vous pouvez présenter des éruptions cutanées et / ou des lésions des muqueuses. Les lésions de la membrane muqueuse sont des plaies dans la bouche, le vagin ou l'anus. Cette étape commence généralement par une éruption cutanée sur une ou plusieurs zones de votre corps. L'éruption cutanée peut apparaître lorsque votre plaie principale guérit ou plusieurs semaines après qu'elle ait guéri. L'éruption peut ressembler à des taches rugueuses, rouges ou brun rougeâtre sur la paume des mains et / ou le bas des pieds. L'éruption ne provoque généralement pas de démangeaisons et elle est parfois si faible que vous ne la remarquerez pas. Fièvre, gonflement des ganglions lymphatiques, maux de gorge, perte de cheveux par endroits, maux de tête, perte de poids, douleurs musculaires et fatigue (sensation de fatigue extrême). Cette étape disparaîtra, que vous receviez ou non un traitement. Sans le traitement approprié, votre infection passera aux stades latent et éventuellement tertiaire de la syphilis.
+Stade latent Le stade latent de la syphilis est une période au cours de laquelle il n'y a aucun signe ou symptôme visible de la syphilis. Si vous ne recevez pas de traitement, vous pouvez continuer à avoir la syphilis dans votre corps pendant des années sans aucun signe ni symptôme.
+Stade tertiaire La plupart des personnes atteintes de syphilis non traitée ne développent pas de syphilis tertiaire. Cependant, lorsque cela se produit, il peut affecter de nombreux systèmes d'organes. Ceux-ci incluent le cœur et les vaisseaux sanguins, ainsi que le cerveau et le système nerveux. La syphilis tertiaire est très grave et se produirait 10 à 30 ans après le début de l’infection. Dans la syphilis tertiaire, la maladie endommage vos organes internes et peut entraîner la mort.
+Neurosyphilis et syphilis oculaire Sans traitement, la syphilis peut se propager au cerveau et au système nerveux (neurosyphilis) ou à l'œil (syphilis oculaire). Cela peut se produire à l’une des étapes décrites ci-dessus.
+
+######
+Les symptômes de la neurosyphilis comprennent:
+@@@@@@
+Maux de tête sévères
+@@@@@@
+difficulté à coordonner les mouvements musculaires
+@@@@@@
+paralysie (incapable de bouger certaines parties de votre corps)
+@@@@@@
+engourdissement
+@@@@@@
+démence (trouble mental)
+
+######
+Test et diagnostic
+@@@@@@
+RPR (Rapid Plasma Reagin): - outre le dépistage, ce test est utile pour surveiller le traitement de la syphilis. A cette fin, le niveau (titre) d'anticorps est mesuré. Il peut également être utilisé pour confirmer la présence d'une infection active lorsqu'un test initial d'anticorps tréponémiques est positif (voir ci-dessous).
+@@@@@@
+VDRL (Laboratoire de recherche sur les maladies vénériennes): - outre le sang, ce test est principalement effectué sur le LCR pour aider au diagnostic de la neurosyphilis.
+@@@@@@
+Tests d'anticorps tréponémiques: - ces tests sanguins détectent des anticorps qui ciblent spécifiquement T. pallidum. Ils sont très spécifiques à la syphilis, ce qui signifie que d'autres affections ne risquent pas de provoquer un résultat positif. Cependant, une fois qu'une personne est infectée et que ces anticorps se développent, ils restent dans le sang toute la vie. En comparaison, les anticorps non tréponémiques disparaissent généralement chez une personne traitée de manière adéquate après environ 3 ans. Par conséquent, un résultat de dépistage tréponémique positif doit être suivi d'un test non tréponémique (tel que RPR) afin de différencier une infection active (ou réinfection) d'une infection survenue dans le passé et ayant été traitée avec succès. Les tests d'anticorps tréponémiques comprennent:
+@@@
+FTA-ABS (absorption d'anticorps tréponémiques fluorescents): - ce test est utile après les 3 à 4 premières semaines suivant l'exposition. En plus des tests sanguins, il peut être utilisé pour mesurer les anticorps anti-T. pallidum dans le LCR afin de faciliter le diagnostic de la neurosyphilis.
+@@@
+TP-PA (test d'agglutination de particules de T. pallidum): - ce test est parfois effectué à la place du FTA-ABS car il est plus spécifique et il y a moins de faux positifs.
+@@@
+MHA-TP (dosage de la microhémagglutination): - autre méthode de confirmation; ce test est utilisé beaucoup moins couramment maintenant.
+@@@
+Essais immunologiques (IA): - Ces dernières années, plusieurs tests automatisés ont été développés, ce qui les rend pratiques pour le dépistage.
+@@@@@@
+Détection directe de bactéries: - ces tests sont moins fréquemment effectués:
+@@@
+Microscopie à fond noir: - cette méthode peut être utilisée dans les premiers stades de la syphilis en présence d'une plaie présumée de syphilis (chancre). Il consiste à obtenir une lésion de la plaie, à la placer sur une lame et à l'examiner à l'aide d'un instrument spécial appelé microscope à fond noir.
+@@@
+Test moléculaire (réaction en chaîne de la polymérase, PCR): - ce test détecte le matériel génétique des bactéries présentes dans l’échantillon, à partir de la plaie, dans le sang ou dans le LCR.
+
+######
+Traitement
+Si vous êtes infecté par la syphilis depuis moins d'un an, une seule dose de pénicilline suffit généralement à détruire l'infection. Pour les personnes allergiques à la pénicilline, la tétracycline, la doxycycline ou un autre antibiotique peut être administré à la place. Si vous êtes à un stade avancé de la maladie, vous aurez besoin de plus de doses.
+
+######
+Complications
+@@@@@@
+La syphilis augmente également le risque d'infection par le VIH
+###
+Petites bosses ou tumeurs
+@@@@@@
+Appelées gommes, ces bosses peuvent se développer sur la peau, les os, le foie ou tout autre organe au stade avancé de la syphilis. Les gommes disparaissent généralement après un traitement aux antibiotiques.
+###
+Problèmes neurologiques
+@@@@@@
+Accident vasculaire cérébral
+@@@@@@
+Méningite
+@@@@@@
+Surdité
+@@@@@@
+Problèmes visuels
+@@@@@@
+Démence
+###
+Problèmes cardiovasculaires
+@@@@@@
+Ceux-ci peuvent inclure un gonflement (anévrisme) et une inflammation de l'aorte et d'autres vaisseaux sanguins. La syphilis peut également endommager les valves cardiaques.
+Complications de la grossesse et de l'accouchement
+@@@@@@
+Si vous êtes enceinte, vous pouvez transmettre la syphilis à votre bébé à naître. La syphilis congénitale augmente considérablement le risque de fausse couche, de mort à la naissance ou de décès de votre nouveau-né quelques jours après la naissance.
+
+######
+La prévention
+Pour réduire votre risque d'infection par la syphilis:
+@@@@@@
+Évitez tout contact intime avec une personne que vous savez infectée.
+@@@@@@
+Si vous ne savez pas si un partenaire sexuel est infecté, utilisez un préservatif lors de chaque rapport sexuel.
+@@@@@@
+À la lumière des effets souvent mortels que la syphilis peut avoir sur les enfants à naître, les responsables de la santé recommandent que toutes les femmes enceintes subissent un dépistage de la maladie.

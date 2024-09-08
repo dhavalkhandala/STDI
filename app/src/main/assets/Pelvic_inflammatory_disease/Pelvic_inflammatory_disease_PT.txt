@@ -1,0 +1,106 @@
+$$$$$$
+Doença inflamatória pélvica
+
+######
+Introdução
+A doença inflamatória pélvica (DIP) compreende um espectro de distúrbios inflamatórios do trato genital feminino superior, incluindo qualquer combinação de endometrite, salpingite, abscesso tubo-ovariano e peritonite pélvica.
+Organismos sexualmente transmissíveis, especialmente N. gonorrhoeae e C. trachomatis, estão implicados em muitos casos
+
+######
+Rota da infecção
+@@@@@@
+Infecção ascendente de endocervicite (gonorréia e clamídia)
+@@@@@@
+Disseminação direta ou linfática associada à condição de TGI como apendicite, colite e diverticulite
+@@@@@@
+Raramente o tubo pode ser afetado pela extensão do osso
+
+######
+Fatores de risco
+Fatores associados ao aumento do risco de PID
+@@@@@@
+Mulheres jovens e sexualmente ativas
+@@@@@@
+mulheres com múltiplos parceiros sexuais
+@@@@@@
+O uso de anticoncepcional intra-uterino tem sido associado ao aumento da incidência
+###
+Fatores associados à diminuição do risco de PID
+@@@@@@
+Uso de método de barreira da contracepção
+@@@@@@
+As pílulas contraceptivas orais estão associadas a um risco baixo significativo para a IDP, provavelmente devido ao seu efeito na eliminação regular do endométrio, diminuição do fluxo sanguíneo menstrual e efeito progestacional sobre o muco cervical, tornando-o menos penetrável pelas bactérias.
+
+######
+Fatores que facilitam a infecção ascendente
+@@@@@@
+Períodos menstruais devido a degeneração do endométrio, menstruação retrógrada e alterações do muco cervical.2 / 3 dos casos de IDP começam logo após a menstruação
+@@@@@@
+Relações sexuais; bactérias podem ser empurradas para o colo do útero durante a relação sexual
+@@@@@@
+Procedimento iatrogênico, como inserção do DIU D e C, histerossalpingografia (HSG), histeroscopia e durante o teste de patência do corante tubário.
+
+######
+Sinal e sintomas
+Critérios clínicos mínimos estão presentes no exame pélvico: em mulheres jovens sexualmente ativas
+@@@@@@
+sensibilidade do movimento cervical ou
+@@@@@@
+ternura uterina ou
+@@@@@@
+tendencias anexas
+###
+Critérios adicionais:
+@@@@@@
+temperatura oral> 101F (> 38.3C)
+@@@@@@
+secreção mucopurulenta cervical anormal ou friabilidade cervical
+@@@@@@
+presença de abundante número de leucócitos em microscopia salina do líquido vaginal
+@@@@@@
+elevada taxa de sedimentação de eritrócitos
+@@@@@@
+proteína C-reativa elevada e
+@@@@@@
+documentação aboratória de infecção cervical com N. gonorrhoeae ou C. trachomatis.
+###
+Critérios Específicos:
+@@@@@@
+biópsia endometrial com evidência histopatológica de endometrite
+@@@@@@
+sonografia transvaginal ou técnicas de ressonância magnética mostrando tubos espessos cheios de líquido com ou sem fluido pélvico livre ou complexo tubo-ovariano, ou estudos Doppler sugerindo infecção pélvica (por exemplo, hiperemia tubária) ou
+@@@@@@
+achados laparoscópicos consistentes com PID
+
+######
+Teste e Diagnóstico
+@@@@@@
+Coloração de Gram para gonorreia
+@@@@@@
+Teste para anticorpos anti-clamídia e gonorréia
+@@@@@@
+Exame de sangue: - aumento de leucócitos e VHS
+@@@@@@
+O achado ultrassonográfico pode ser normal ou não específico. TVS para excluir gravidez ectópica, mioma uterino e inchaço ovariano
+@@@@@@
+Laparascopia: - é o padrão ouro para confirmar o diagnóstico sempre que houver dúvidas. Ele revelará hiperemia serosa tubária, edema da parede tubária e exsudatos purulentos das trompas de Falópio reunidas no beco sem saída.
+@@@@@@
+Culidocentese: - aspiração de líquido purulento da bolsa de douglas pode auxiliar no diagnóstico.
+
+######
+Recomendação
+Testes para HIV e DSTs devem ser oferecidos a todas as mulheres diagnosticadas com DIP.
+
+######
+Tratamento
+IM, IV / esquema oral
+@@@@@@
+IM ceftiaxona 250 mg em dose única
+@@@@@@
+Doxiciclina 100 mg BID comprimidos por 14 dias
+@@@@@@
+Cefotetan 2 g IV a cada 12 horas PLUS Doxiciclina 100 mg por via oral ou por via intravenosa a cada 12 horas OU
+@@@@@@
+Cefoxitina 2 g IV a cada 6 horas PLUS Doxiciclina 100 mg por via oral ou por via intravenosa a cada 12 horas OU
+@@@@@@
+Clindamicina 900 mg IV a cada 8 horas PLUS Dose de carga de gentamicina IV ou IM (2 mg / kg), seguida por uma dose de manutenção (1,5 mg / kg) a cada 8 horas. A dose diária única (3-5 mg / kg) pode ser substituída

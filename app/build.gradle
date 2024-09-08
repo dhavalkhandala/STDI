@@ -1,0 +1,106 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
+android {
+    compileSdkVersion 34
+    defaultConfig {
+        applicationId "com.stdi"
+        minSdkVersion 19
+        targetSdkVersion 34
+        versionCode 20
+        versionName "1.20"
+
+        def date = new Date().format("yyyyMMdd_HHmm")
+        setProperty("archivesBaseName", "STDI_" +  date)
+
+        vectorDrawables.useSupportLibrary = true
+        resConfigs "en"
+        renderscriptTargetApi 18
+        renderscriptSupportModeEnabled true
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        debug{
+
+            resValue "string", "VERSION_DB_NAME", "version"
+            resValue "string", "Google_Admob_App_ID", GOOGLE_TEST_APP_ID
+            resValue "string", "Google_Admob_Banner_ID", GOOGLE_TEST_BANNER_ADS
+            resValue "string", "Google_Admob_Interstitial_ID", GOOGLE_TEST_INTERSTITIAL_ADS
+            resValue "string", "Google_Admob_App_Open_ID", GOOGLE_TEST_APP_OPEN_ADS
+
+
+
+        }
+        release {
+
+            resValue "string", "VERSION_DB_NAME", "version"
+            resValue "string", "Google_Admob_App_ID", GOOGLE_LIVE_APP_ID
+            resValue "string", "Google_Admob_Banner_ID", GOOGLE_LIVE_BANNER_ADS
+            resValue "string", "Google_Admob_Interstitial_ID", GOOGLE_LIVE_INTERSTITIAL_ADS
+            resValue  "string", "Google_Admob_App_Open_ID", GOOGLE_LIVE_APP_OPEN_ADS
+            minifyEnabled true
+            shrinkResources true
+            debuggable false
+            jniDebuggable false
+            renderscriptDebuggable false
+            pseudoLocalesEnabled false
+            zipAlignEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    lintOptions {
+        checkReleaseBuilds false
+    }
+
+    aaptOptions {
+        cruncherEnabled = true
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    buildFeatures {
+        viewBinding = true
+    }
+
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'androidx.core:core-ktx:1.1.0-alpha05'
+
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'com.github.deano2390:MaterialShowcaseView:1.2.0'
+
+    implementation 'com.google.android.gms:play-services-base:18.1.0'
+
+
+    implementation 'com.google.firebase:firebase-core:21.1.1'
+    implementation 'com.google.firebase:firebase-firestore:24.4.0'
+
+    implementation platform('com.google.firebase:firebase-bom:31.0.2')
+    implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.firebase:firebase-crashlytics:18.3.1'
+    implementation 'androidx.lifecycle:lifecycle-process:2.5.1'
+
+    //lottie animation
+    implementation 'com.airbnb.android:lottie:5.0.1'
+
+    //glide
+    implementation 'com.github.bumptech.glide:glide:4.14.2'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.14.2'
+
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
+}
+apply plugin: 'com.google.gms.google-services'
+apply plugin: 'com.google.firebase.crashlytics'

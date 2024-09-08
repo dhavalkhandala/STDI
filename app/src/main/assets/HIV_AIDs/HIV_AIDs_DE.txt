@@ -1,0 +1,111 @@
+$$$$$$
+HIV / AIDS
+ 
+######
+Einführung
+Auch genannt: Erworbenes Immunmangelsyndrom, AIDS, HIV, Humanes Immundefizienzvirus
+HIV steht für Human Immunodeficiency Virus. Es schädigt Ihr Immunsystem, indem es die weißen Blutkörperchen zerstört, die gegen Infektionen wirken. Dadurch besteht ein Risiko für schwerwiegende Infektionen und bestimmte Krebsarten. AIDS steht für erworbenes Immunmangelsyndrom. Es ist das letzte Stadium der Infektion mit HIV. Nicht jeder mit HIV entwickelt AIDS.
+HIV verbreitet sich meistens durch ungeschützten Sex mit einer infizierten Person. Es kann sich auch durch Teilen von Medikamentennadeln oder durch Kontakt mit dem Blut einer infizierten Person ausbreiten. Frauen können es ihren Babys während der Schwangerschaft oder Geburt geben.
+Die ersten Anzeichen einer HIV-Infektion können geschwollene Drüsen und grippeähnliche Symptome sein. Diese können innerhalb von zwei bis vier Wochen kommen und gehen. Schwere Symptome treten möglicherweise erst Monate oder Jahre später auf.
+ 
+######
+Zeichen und Symptome
+Sie können sich nicht auf Symptome verlassen, um festzustellen, ob Sie an HIV leiden. Der einzige Weg, um sicher zu wissen, ob Sie HIV haben, besteht darin, sich testen zu lassen. Es ist wichtig, Ihren Status zu kennen, da er Ihnen dabei hilft, gesunde Entscheidungen zu treffen, um das Auftreten oder die Übertragung von HIV zu verhindern.
+Die Symptome von HIV variieren je nach Individuum und in welchem Stadium der Erkrankung Sie sich befinden: im Frühstadium, im klinischen Latenzstadium oder bei AIDS (im späten Stadium der HIV-Infektion).Nachfolgend sind die Symptome aufgeführt, die bei einigen Personen in diesen drei Stadien auftreten können. Diese Symptome treten nicht bei allen Personen auf.
+###
+Frühes Stadium von HIV
+@@@@@@
+Fieber
+@@@@@@
+Schüttelfrost
+@@@@@@
+Ausschlag
+@@@@@@
+Nachtschweiß
+@@@@@@
+Muskelkater
+@@@@@@
+Halsschmerzen
+@@@@@@
+Ermüden
+@@@@@@
+Geschwollene Lymphknoten
+@@@@@@
+Geschwüre im Mund
+###
+Klinische Latenzphase
+Nach dem frühen Stadium der HIV-Infektion geht die Krankheit in ein Stadium über, das als klinisches Latenzstadium bezeichnet wird (auch als "chronische HIV-Infektion" bezeichnet). Während dieser Phase ist HIV immer noch aktiv, vermehrt sich jedoch auf sehr niedrigem Niveau. Menschen mit chronischer HIV-Infektion haben möglicherweise keine oder nur milde HIV-bedingte Symptome. Für Menschen, die keine Medikamente zur Behandlung von HIV einnehmen (als antiretrovirale Therapie oder ART bezeichnet), kann dieser Zeitraum ein Jahrzehnt oder länger dauern, einige jedoch Durchlaufen Sie diese Phase schneller. Menschen, die Medikamente zur Behandlung von HIV einnehmen und die Medikamente jeden Tag auf die richtige Weise einnehmen, befinden sich möglicherweise seit mehreren Jahrzehnten in diesem Stadium, weil die Behandlung dazu beiträgt, das Virus in Schach zu halten. (Lesen Sie mehr über HIV-Behandlung)
+ 
+######
+Fortschritt zu AIDS
+Wenn Sie unter HIV leiden und nicht unter ART sind, schwächt das Virus schließlich das Immunsystem Ihres Körpers und Sie entwickeln sich zu AIDS (erworbenes Immunodeficiency-Syndrom), dem späten Stadium der HIV-Infektion.
+###
+Symptome können sein:
+@@@@@@
+Schneller Gewichtsverlust
+@@@@@@
+Wiederkehrendes Fieber oder starke nächtliche Schweißausbrüche
+@@@@@@
+Extreme und unerklärliche Müdigkeit
+@@@@@@
+Anhaltende Schwellung der Lymphdrüsen in den Achselhöhlen, der Leiste oder im Nacken
+@@@@@@
+Durchfall, der länger als eine Woche andauert
+@@@@@@
+Wunden des Mundes, des Anus oder der Genitalien
+@@@@@@
+Lungenentzündung
+@@@@@@
+Rote, braune, rosa oder violette Flecken auf oder unter der Haut oder im Mund, in der Nase oder in den Augenlidern
+@@@@@@
+Gedächtnisverlust, Depressionen und andere neurologische Störungen
+ 
+######
+Test und Diagnose
+Für das HIV-Screening können verschiedene Arten von Tests verwendet werden:
+@@@@@@
+Kombinierter HIV-Antikörper- und HIV-Antigentest: - Dies ist der empfohlene Screening-Test für HIV. Es ist nur als Bluttest verfügbar. Es detektiert das HIV-Antigen namens p24 plus Antikörper gegen HIV-1 und HIV-2. (HIV-1 ist der häufigste Typ, der in den Vereinigten Staaten gefunden wird, während HIV-2 in Teilen Afrikas eine höhere Prävalenz aufweist.) Die Menge an p24-Antigen und die Virusmenge (Viruslast) steigen kurz nach der Erstinfektion signifikant an. Der Test auf p24 ermöglicht den Nachweis frühzeitiger Infektionen, bevor HIV-Antikörper produziert werden. Einige Wochen nach der Exposition werden Antikörper gegen HIV als Reaktion auf die Infektion produziert und bleiben danach im Blut nachweisbar, so dass der Antikörpertest Wochen nach der Exposition zum Nachweis von Infektionen nützlich ist. Durch den Nachweis von Antikörper und Antigen erhöht der Kombinationstest die Wahrscheinlichkeit, dass eine Infektion bald nach der Exposition erkannt wird. Diese Tests können HIV-Infektionen bei den meisten Menschen 2-6 Wochen nach der Exposition nachweisen.
+@@@@@@
+HIV-Antikörpertest: - Alle in den USA verwendeten HIV-Antikörpertests stellen HIV-1 nach, und es wurden einige Tests entwickelt, die auch HIV-2 nachweisen können. Diese Tests sind als Bluttests oder Tests mit oraler Flüssigkeit verfügbar. HIV-Antikörpertests können Infektionen bei den meisten Menschen 3-12 Wochen nach der Exposition nachweisen.
+@@@@@@
+p24-Antigentest: - dieser wird alleine ohne den Antikörpertest nur in seltenen Fällen verwendet, wenn die Frage nach einer Störung des HIV-Antikörpertests gestellt wird.
+@@@@@@
+Viruslast: - Dieser Test misst die Virusmenge in Ihrem Blut. Studien haben gezeigt, dass Menschen mit einer höheren Viruslast im Allgemeinen schlechter abschneiden als Menschen mit einer niedrigeren Viruslast
+@@@@@@
+Medikamentenresistenz: - Dieser Bluttest bestimmt, ob der HIV-Stamm gegen bestimmte Anti-HIV-Medikamente resistent ist
+ 
+######
+Behandlung
+In den frühen achtziger Jahren, als die HIV / AIDS-Epidemie begann, lebten die Patienten selten länger als einige Jahre. Heute gibt es jedoch viele wirksame Medikamente, um die Infektion zu bekämpfen, und HIV-infizierte Menschen leben länger und gesünder.
+###
+Es gibt fünf Hauptarten von Arzneimitteln:
+@@@@@@
+Reverse Transcriptase (RT) -Inhibitoren: - stören einen entscheidenden Schritt während des HIV-Lebenszyklus und verhindern, dass das Virus Kopien von sich selbst macht
+@@@@@@
+Proteaseinhibitoren: - Interferenz mit einem Protein, das HIV zur Herstellung infektiöser Viruspartikel verwendet
+@@@@@@
+Fusionshemmer: - Blockieren Sie das Eindringen des Virus in die Körperzellen
+@@@@@@
+Integrase-Inhibitoren: - Blockieren eines Enzyms, das HIV benötigt, um Kopien von sich selbst herzustellen
+@@@@@@
+Multidrug-Kombinationen: - Kombinieren Sie zwei oder mehr verschiedene Arten von Medikamenten
+Diese Medikamente helfen Menschen mit HIV, aber sie sind nicht perfekt. Sie heilen HIV / AIDS nicht. Menschen mit einer HIV-Infektion haben immer noch das Virus in ihrem Körper. Sie können HIV trotzdem durch ungeschützt auf andere übertragen
+ 
+######
+Komplikationen
+Die HIV-Infektion schwächt das Immunsystem und macht Sie anfällig für zahlreiche Infektionen und bestimmte Krebsarten
+Häufige Infektionen sind Tuberkulose, Salmonellose, Cytomegalovirus, Toxoplasmose, Candidiasis, kryptokokale Meningitis
+Krebserkrankungen sind Koposis Sarkom und Lymphome
+ 
+######
+Verhütung
+@@@@@@
+Verwenden Sie jedes Mal, wenn Sie Sex haben, ein neues Kondom
+@@@@@@
+Betrachten Sie die Droge Truvada
+@@@@@@
+Wenn Sie schwanger sind, lassen Sie sich testen
+@@@@@@
+Verwenden Sie eine saubere Nadel
+@@@@@@
+Erzählen Sie Ihren Partnern

@@ -1,0 +1,95 @@
+$$$$$$
+Sífilis
+
+######
+Introdução
+A sífilis é uma doença sexualmente transmissível causada por bactérias. Ele infecta a área genital, lábios, boca ou ânus de homens e mulheres. Você costuma ter sífilis de contato sexual com alguém que tenha. Também pode passar da mãe para o bebê durante a gravidez.
+O estágio inicial da sífilis geralmente causa uma ferida única, pequena e indolor. Às vezes, causa inchaço nos gânglios linfáticos próximos. Se você não a tratar, a sífilis geralmente causa uma erupção cutânea que não coça, geralmente nas mãos e nos pés. Muitas pessoas não percebem sintomas há anos. Os sintomas podem desaparecer e voltar.
+As feridas causadas pela sífilis tornam mais fácil obter ou dar a alguém o HIV durante o sexo. Se você está grávida, a sífilis pode causar defeitos congênitos, ou você pode perder seu bebê. Em casos raros, a sífilis causa sérios problemas de saúde e até a morte.
+A sífilis é fácil de curar com antibióticos, se você pegá-lo cedo. O uso correto de preservativos de látex reduz muito, mas não elimina completamente, o risco de pegar ou disseminar a sífilis.
+
+######
+Sinal e sintomas
+Os sintomas da sífilis em adultos variam conforme o estágio: Estágio primário Durante o primeiro estágio (primário) da sífilis, você pode notar uma única ferida ou múltiplas feridas. A ferida é o local onde a sífilis entrou em seu corpo. As feridas são geralmente (mas nem sempre) firmes, redondas e indolores. Porque a ferida é indolor, pode facilmente passar despercebida. A ferida geralmente dura de 3 a 6 semanas e cura independentemente de você receber ou não tratamento. Mesmo depois que a ferida desaparece, você ainda deve receber tratamento. Isso impedirá que sua infecção se mova para o estágio secundário.
+Estágio Secundário Durante o estágio secundário, você pode ter erupções cutâneas e / ou lesões na membrana mucosa. As lesões da membrana mucosa são feridas na boca, vagina ou ânus. Esta fase geralmente começa com uma erupção cutânea em uma ou mais áreas do seu corpo. A erupção pode aparecer quando a ferida primária estiver cicatrizando ou várias semanas após a cicatrização da ferida. A erupção pode parecer manchas ásperas, vermelhas ou avermelhadas nas palmas das mãos e / ou na parte inferior dos pés. A erupção geralmente não coça e às vezes é tão fraca que você não percebe. Outros sintomas que você pode ter incluem febre, glândulas linfáticas inchadas, dor de garganta, perda de cabelo irregular, dores de cabeça, perda de peso, dores musculares e fadiga (sensação de cansaço). A esta fase vai desaparecer ou não receber tratamento. Sem o tratamento certo, sua infecção passará para os estágios latentes e possivelmente terciários da sífilis.
+Estágio Latente O estágio latente da sífilis é um período de tempo em que não há sinais ou sintomas visíveis de sífilis. Se você não receber tratamento, você pode continuar a ter sífilis em seu corpo por anos sem quaisquer sinais ou sintomas.
+Estágio terciário A maioria das pessoas com sífilis não tratada não desenvolve sífilis terciária. No entanto, quando isso acontece, pode afetar muitos sistemas de órgãos diferentes. Estes incluem o coração e os vasos sanguíneos e o cérebro e o sistema nervoso. A sífilis terciária é muito grave e ocorreria 10 a 30 anos após o início da infecção. Na sífilis terciária, a doença danifica os órgãos internos e pode resultar em morte.
+Neurossífilis e Sífilis Ocular Sem tratamento, a sífilis pode se espalhar para o cérebro e sistema nervoso (neurossífilis) ou para o olho (sífilis ocular). Isso pode acontecer durante qualquer um dos estágios descritos acima.
+
+######
+Os sintomas da neurossífilis incluem:
+@@@@@@
+dor de cabeça severa
+@@@@@@
+dificuldade em coordenar movimentos musculares
+@@@@@@
+paralisia (incapaz de mover certas partes do seu corpo)
+@@@@@@
+dormência
+@@@@@@
+demência (transtorno mental)
+
+######
+Teste e Diagnóstico
+@@@@@@
+RPR (Rapid Plasma Reagin): - além do rastreamento, este teste é útil no monitoramento do tratamento da sífilis. Para este propósito, o nível (título) do anticorpo é medido. Também pode ser usado para confirmar a presença de uma infecção ativa quando um teste inicial para anticorpos treponêmicos for positivo (veja abaixo).
+@@@@@@
+VDRL (Venereal Disease Research Laboratory): - além do sangue, este teste é realizado principalmente no LCR para ajudar a diagnosticar a neurossífilis.
+@@@@@@
+Testes de anticorpos treponêmicos: - esses exames de sangue detectam anticorpos que visam especificamente o T. pallidum. Eles são altamente específicos para sífilis, o que significa que outras condições não são susceptíveis de causar um resultado positivo. No entanto, uma vez que uma pessoa é infectada e esses anticorpos se desenvolvem, eles permanecem no sangue por toda a vida. Por comparação, os anticorpos não treponêmicos geralmente desaparecem em uma pessoa adequadamente tratada após cerca de 3 anos. Portanto, um resultado de treponema positivo deve ser seguido por um teste não treponêmico (como RPR) para diferenciar entre uma infecção ativa (ou reinfecção) e outra que ocorreu no passado e foi tratada com sucesso. Os testes de anticorpos treponêmicos incluem:
+@@@
+FTA-ABS (Absorção do anticorpo treponêmico fluorescente): - este teste é útil após as primeiras 3-4 semanas após a exposição. Além do exame de sangue, ele pode ser usado para medir anticorpos contra o T. pallidum no LCR para ajudar a diagnosticar a neurossífilis.
+@@@
+TP-PA (ensaio de aglutinação de partículas de T. pallidum): - Este teste é realizado às vezes em vez de FTA-ABS porque é mais específico e há menos falsos positivos.
+@@@
+MHA-TP (ensaio de microhemaglutinação): - outro método confirmatório; Este teste é usado muito menos comumente agora.
+@@@
+Imunoensaios (IA): - em anos mais recentes, vários testes automatizados foram desenvolvidos, tornando-os convenientes para fins de triagem.
+@@@@@@
+Detecção direta de bactérias: - estes testes são menos comumente realizados:
+@@@
+Microscopia de campo escuro: - este método pode ser usado nos estágios iniciais da sífilis quando há suspeita de sífilis (chancre). Envolve a obtenção de uma raspagem da ferida, colocando-a em um slide e examinando-a com um instrumento especial chamado microscópio de campo escuro.
+@@@
+Teste molecular (reação em cadeia da polimerase, PCR): - este teste detecta material genético das bactérias na amostra da ferida, no sangue ou no líquido cefalorraquidiano (LCR).
+
+######
+Tratamento
+Se você foi infectado com sífilis por menos de um ano, uma dose única de penicilina é geralmente suficiente para destruir a infecção. Para aqueles alérgicos à penicilina, tetraciclina, doxiciclina ou outro antibiótico podem ser administrados. Se você estiver em um estágio posterior da doença, mais doses serão necessárias.
+
+######
+Complicações
+@@@@@@
+A sífilis também aumenta o risco de infecção pelo HIV
+###
+Pequenas saliências ou tumores
+@@@@@@
+Chamados de gummas, esses inchaços podem se desenvolver em sua pele, ossos, fígado ou qualquer outro órgão na fase tardia da sífilis. Gummas geralmente desaparecem após o tratamento com antibióticos.
+###
+Problemas neurológicos
+@@@@@@
+Acidente vascular encefálico
+@@@@@@
+Meningite
+@@@@@@
+Surdez
+@@@@@@
+Problemas visuais
+@@@@@@
+Demência
+###
+Problemas cardiovasculares
+@@@@@@
+Estes podem incluir abaulamento (aneurisma) e inflamação da aorta e de outros vasos sanguíneos. A sífilis também pode danificar as válvulas cardíacas.
+Complicações na gravidez e parto
+@@@@@@
+Se você está grávida, você pode passar sífilis para o feto. A sífilis congênita aumenta muito o risco de aborto espontâneo, ainda nascimento ou a morte do recém-nascido dentro de alguns dias após o nascimento.
+
+######
+Prevenção
+Para reduzir o risco de infecção por sífilis:
+@@@@@@
+Evite contato íntimo com uma pessoa que você conhece está infectada.
+@@@@@@
+Se você não souber se um parceiro sexual está infectado, use preservativo em todos os encontros sexuais.
+@@@@@@
+À luz dos efeitos freqüentemente letais que a sífilis pode ter sobre os fetos, as autoridades de saúde recomendam que todas as mulheres grávidas sejam examinadas para a doença.

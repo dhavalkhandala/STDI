@@ -1,0 +1,95 @@
+$$$$$$
+Syphilis
+
+######
+Einführung
+Syphilis ist eine sexuell übertragbare Krankheit, die durch Bakterien verursacht wird. Es infiziert den Genitalbereich, die Lippen, den Mund oder den After von Männern und Frauen. Sie bekommen Syphilis normalerweise durch sexuellen Kontakt mit jemandem, der sie hat. Es kann auch während der Schwangerschaft von Mutter zu Baby gehen.
+Das frühe Stadium der Syphilis verursacht normalerweise eine einzelne, kleine, schmerzlose Wunde. Manchmal führt es zu Schwellungen in nahe gelegenen Lymphknoten. Wenn Sie es nicht behandeln, verursacht Syphilis in der Regel einen nicht juckenden Hautausschlag, häufig an Händen und Füßen. Viele Menschen bemerken seit Jahren keine Symptome. Symptome können verschwinden und wiederkommen.
+Die durch Syphilis hervorgerufenen Wunden machen es leichter, jemanden beim Sex mit HIV zu infizieren. Wenn Sie schwanger sind, kann Syphilis Geburtsfehler verursachen oder Sie können Ihr Baby verlieren. In seltenen Fällen verursacht Syphilis ernste Gesundheitsprobleme und sogar den Tod.
+Syphilis ist leicht mit Antibiotika zu heilen, wenn Sie es früh fangen. Durch die korrekte Verwendung von Latexkondomen wird das Risiko, Syphilis aufzufangen oder auszubreiten, stark reduziert, jedoch nicht vollständig ausgeschlossen.
+
+######
+Zeichen und Symptome
+Die Symptome der Syphilis bei Erwachsenen variieren je nach Stadium: Primärstadium Während des ersten (Primär-) Stadiums der Syphilis können Sie eine einzelne Wunde oder mehrere Wunden feststellen. Die Wunde ist der Ort, an dem Syphilis in Ihren Körper eingedrungen ist. Wunden sind normalerweise (aber nicht immer) fest, rund und schmerzlos. Da die Wunde schmerzlos ist, kann es leicht unbemerkt bleiben. Die Wunde dauert normalerweise 3 bis 6 Wochen und heilt unabhängig davon, ob Sie behandelt werden oder nicht. Selbst nachdem die Wunden verschwunden sind, müssen Sie noch behandelt werden. Dadurch wird verhindert, dass Ihre Infektion in das sekundäre Stadium übergeht.
+Sekundärstadium Im Sekundärstadium können Hautausschläge und / oder Schleimhautläsionen auftreten. Schleimhautläsionen sind Wunden im Mund, in der Vagina oder im After. Diese Phase beginnt normalerweise mit einem Hautausschlag an einem oder mehreren Körperbereichen. Der Ausschlag kann auftreten, wenn Ihre primäre Wunde heilt oder mehrere Wochen, nachdem die Wunde geheilt ist. Der Ausschlag kann wie raue, rote oder rötlich braune Flecken auf den Handflächen und / oder den Fußsohlen aussehen. Der Ausschlag wird normalerweise nicht jucken und ist manchmal so schwach, dass Sie es nicht bemerken werden. Weitere Symptome, die Sie möglicherweise haben, sind Fieber, geschwollene Lymphdrüsen, Halsschmerzen, unregelmäßiger Haarausfall, Kopfschmerzen, Gewichtsverlust, Muskelschmerzen und Müdigkeit (sehr müde). Diese Phase wird verschwinden, unabhängig davon, ob Sie behandelt werden oder nicht. Ohne die richtige Behandlung wird Ihre Infektion in die latenten und möglicherweise tertiären Stadien der Syphilis übergehen.
+Latentes Stadium Das latente Stadium der Syphilis ist ein Zeitraum, in dem keine sichtbaren Anzeichen oder Symptome einer Syphilis auftreten. Wenn Sie keine Behandlung erhalten, können Sie die Syphilis in Ihrem Körper jahrelang ohne Anzeichen oder Symptome haben.
+Tertiärstadium Die meisten Menschen mit unbehandelter Syphilis entwickeln keine Tertiärsyphilis. In diesem Fall können jedoch viele verschiedene Organsysteme betroffen sein. Dazu gehören das Herz und die Blutgefäße sowie das Gehirn und das Nervensystem. Tertiärsyphilis ist sehr schwerwiegend und tritt 10 Jahre nach Beginn der Infektion auf. Bei der tertiären Syphilis schädigt die Krankheit die inneren Organe und kann zum Tod führen.
+Neurosyphilis und okulare Syphilis Ohne Behandlung kann sich Syphilis auf das Gehirn und das Nervensystem (Neurosyphilis) oder auf das Auge (okulare Syphilis) ausbreiten. Dies kann in jeder der oben beschriebenen Stufen passieren.
+
+######
+Symptome der Neurosyphilis sind:
+@@@@@@
+starke Kopfschmerzen
+@@@@@@
+Schwierigkeit, Muskelbewegungen zu koordinieren
+@@@@@@
+Lähmung (bestimmte Körperbereiche können nicht bewegt werden)
+@@@@@@
+Taubheit
+@@@@@@
+Demenz (psychische Störung)
+
+######
+Test und Diagnose
+@@@@@@
+RPR (Rapid Plasma Reagin): - Neben dem Screening eignet sich dieser Test auch zur Überwachung der Syphilis-Behandlung. Zu diesem Zweck wird die Menge (Titer) des Antikörpers gemessen. Es kann auch verwendet werden, um das Vorhandensein einer aktiven Infektion zu bestätigen, wenn ein erster Test auf treponemale Antikörper positiv ist (siehe unten).
+@@@@@@
+VDRL (Venereal Disease Research Laboratory): - Zusätzlich zu Blut wird dieser Test hauptsächlich an Liquor durchgeführt, um die Diagnose von Neurosyphilis zu erleichtern.
+@@@@@@
+Treponemale Antikörpertests: - Bei diesen Blutuntersuchungen werden Antikörper nachgewiesen, die spezifisch gegen T. pallidum gerichtet sind. Sie sind sehr spezifisch für die Syphilis, was bedeutet, dass andere Bedingungen wahrscheinlich kein positives Ergebnis verursachen. Sobald eine Person infiziert ist und sich diese Antikörper entwickeln, verbleiben sie lebenslang im Blut. Im Vergleich dazu verschwinden nichttreponemale Antikörper typischerweise bei einer ausreichend behandelten Person nach etwa 3 Jahren. Daher muss ein positives treponemales Screening-Ergebnis von einem nichttreponemalen Test (wie RPR) gefolgt werden, um zwischen einer aktiven Infektion (oder Reinfektion) und einer Infektion zu unterscheiden, die in der Vergangenheit aufgetreten ist und erfolgreich behandelt wurde. Treponemal-Antikörpertests umfassen:
+@@@
+FTA-ABS (Fluoreszenztreponemal-Antikörper-Absorption): - Dieser Test ist nach den ersten 3-4 Wochen nach der Exposition nützlich. Neben Blutuntersuchungen können Antikörper gegen T. pallidum im Liquor gemessen werden, um die Diagnose von Neurosyphilis zu erleichtern.
+@@@
+TP-PA (T. pallidum-Partikelagglutinationsassay): - Dieser Test wird manchmal anstelle von FTA-ABS durchgeführt, da er spezifischer ist und weniger Fehlalarme vorhanden sind.
+@@@
+MHA-TP (Mikrohämagglutinationsassay): - eine andere Bestätigungsmethode; Dieser Test wird jetzt viel seltener verwendet.
+@@@
+Immunoassays (IA): - In den letzten Jahren wurden mehrere automatisierte Tests entwickelt, wodurch sie für Screening-Zwecke geeignet sind.
+@@@@@@
+Direkter Nachweis von Bakterien: - Diese Tests werden seltener durchgeführt:
+@@@
+Dunkelfeldmikroskopie: - Diese Methode kann in den frühen Stadien der Syphilis angewendet werden, wenn ein Verdacht auf Syphilis (chancre) besteht. Es geht darum, die Wunde zu kratzen, auf einen Objektträger zu legen und mit einem speziellen Instrument, dem Dunkelfeldmikroskop, zu untersuchen.
+@@@
+Molekularer Test (Polymerase-Kettenreaktion, PCR): - Dieser Test erkennt genetisches Material der Bakterien in der Probe aus der Wunde, im Blut oder im Liquor.
+
+######
+Behandlung
+Wenn Sie seit weniger als einem Jahr mit Syphilis infiziert sind, genügt normalerweise eine einzige Penicillin-Dosis, um die Infektion zu zerstören. Für diejenigen, die gegen Penicillin allergisch sind, können stattdessen Tetracyclin, Doxycyclin oder ein anderes Antibiotikum verabreicht werden. Wenn Sie sich in einem späteren Stadium der Erkrankung befinden, werden mehr Dosen benötigt.
+
+######
+Komplikationen
+@@@@@@
+Syphilis erhöht auch das Risiko einer HIV-Infektion
+###
+Kleine Beulen oder Tumore
+@@@@@@
+Diese Gummistopfen können sich im späten Stadium der Syphilis auf Haut, Knochen, Leber oder anderen Organen entwickeln. Gummas verschwinden normalerweise nach einer Behandlung mit Antibiotika.
+###
+Neurologische Probleme
+@@@@@@
+Schlaganfall
+@@@@@@
+Meningitis
+@@@@@@
+Taubheit
+@@@@@@
+Visuelle Probleme
+@@@@@@
+Demenz
+###
+Herz-Kreislauf-Probleme
+@@@@@@
+Dies kann ein Ausbeulen (Aneurysma) und eine Entzündung der Aorta und anderer Blutgefäße sein. Syphilis kann auch Herzklappen beschädigen.
+Schwangerschafts- und Geburtskomplikationen
+@@@@@@
+Wenn Sie schwanger sind, können Sie Ihrem ungeborenen Kind Syphilis geben. Angeborene Syphilis erhöht innerhalb weniger Tage nach der Geburt das Risiko für Fehlgeburten, die Geburt oder den Tod Ihres Neugeborenen.
+
+######
+Verhütung
+Um das Risiko einer Syphilis-Infektion zu verringern:
+@@@@@@
+Vermeiden Sie engen Kontakt mit einer Person, von der Sie wissen, dass sie infiziert ist.
+@@@@@@
+Wenn Sie nicht wissen, ob ein Sexualpartner infiziert ist, verwenden Sie bei jeder sexuellen Begegnung ein Kondom.
+@@@@@@
+Aufgrund der oft tödlichen Auswirkungen von Syphilis auf ungeborene Kinder empfehlen Gesundheitsbeamte, dass alle schwangeren Frauen auf die Krankheit untersucht werden.
