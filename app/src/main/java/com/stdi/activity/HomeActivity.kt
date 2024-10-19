@@ -1,35 +1,25 @@
 package com.stdi.activity
 
-
-
 import android.app.Activity
-import android.app.AlertDialog
-import android.content.BroadcastReceiver
-import android.content.Context
 import android.content.Intent
 import android.content.res.ColorStateList
 
 import android.os.Bundle
 import android.os.Handler
 import android.text.TextUtils
-import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
 
 import android.widget.*
-import androidx.annotation.Nullable
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.android.gms.ads.*
 
-import com.stdi.BuildConfig
 import com.stdi.R
-import com.stdi.SharedPref
 import com.stdi.adapter.CardListAdapter
 import com.stdi.adapter.VerticalListAdapter
-import com.stdi.app
 import com.stdi.cardstackview.CardStackLayoutManager
 import com.stdi.cardstackview.CardStackListener
 import com.stdi.cardstackview.Direction
@@ -41,38 +31,17 @@ import uk.co.deanwild.materialshowcaseview.ShowcaseConfig
 import java.io.BufferedReader
 import java.io.InputStreamReader
 
-
 class HomeActivity : AppCompatActivity(), LanguageListDialogFragment.Listener {
 
-    private lateinit var planTitle: String
-    private lateinit var planPrice: String
-    private var now: Long = 0
     private val activity: Activity = this
-
-    private val session: MySession? = null
-    private var readyToPurchase = false
-    private val productId = "plan.stdi.purchase"
-    private val TAG = "HomeActivity"
-
-
-    private var systemTimeTickReceiver: DetailActivity.SystemTimeTickReceiver? = null
-
-
-
-
     private var verticalListAdapter: VerticalListAdapter? = null
     private var cardListAdapter: CardListAdapter? = null
-
-
     private val titleList: MutableList<String> = mutableListOf()
     private val infoList: MutableList<String> = mutableListOf()
-
     private var isListTypeCard = true
     private var isCardEmpty = false
     private var width = 0
     private var height = 0
-    val afterMinute: Long = System.currentTimeMillis() + 70000
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -86,43 +55,8 @@ class HomeActivity : AppCompatActivity(), LanguageListDialogFragment.Listener {
         for ((index, value) in AppUtils.fileNameList.withIndex()) {
             readDataFromFile(value, index)
         }
-        SharedPref.init(activity)
         initToolbar()
         showTutorialsShowcase()
-    }
-
-
-
-    public override fun onStart() {
-        super.onStart()
-
-    }
-
-    public override fun onResume() {
-        super.onResume()
-
-        registerTimeReceiver()
-    }
-
-    public override fun onPause() {
-        super.onPause()
-
-        unRegisterTimeReceiver()
-    }
-
-    public override fun onStop() {
-        super.onStop()
-
-    }
-
-    override fun onDestroy() {
-        super.onDestroy()
-
-    }
-
-    override fun onBackPressed() {
-            super.onBackPressed()
-
     }
 
     private fun initToolbar() {
@@ -130,12 +64,6 @@ class HomeActivity : AppCompatActivity(), LanguageListDialogFragment.Listener {
         AppUtils.changeToolbarStatusBarColor(activity, toolbar, 0)
         changeFabButtonColor(0)
         setSupportActionBar(toolbar)
-        lv_more_app.playAnimation()
-        lv_more_app.setOnClickListener(object : View.OnClickListener {
-            override fun onClick(p0: View?) {
-                startActivity(Intent(this@HomeActivity,MoreAppActivity::class.java))
-            }
-        })
     }
 
     private fun init() {
@@ -231,14 +159,6 @@ class HomeActivity : AppCompatActivity(), LanguageListDialogFragment.Listener {
             "Swipe left or right to view diseases information", "GOT IT"
         )
         sequence.start()
-        sequence.setOnItemDismissedListener { _, position ->
-            if (position == 2) {
-                getVersionDataFromFirebase()
-            }
-        }
-        if (sequence.hasFired()) {
-            getVersionDataFromFirebase()
-        }
     }
 
 
@@ -402,30 +322,6 @@ class HomeActivity : AppCompatActivity(), LanguageListDialogFragment.Listener {
         activity.startActivity(intent)
     }
 
-
-    private fun getVersionDataFromFirebase() {
-        app.firestoreDB.collection(getString(R.string.VERSION_DB_NAME))
-            .get()
-            .addOnSuccessListener { result ->
-                var minVersionCode: Long = BuildConfig.VERSION_CODE.toLong()
-                for ((index, document) in result.withIndex()) {
-
-                    val map = document.data
-                    if (document.id == AppConstants.Android) {
-                        if (map.contains(AppConstants.minVersionSupport))
-                            minVersionCode = map[AppConstants.minVersionSupport] as Long
-                    }
-
-                    if (index == result.size() - 1) {
-                        if (BuildConfig.VERSION_CODE < minVersionCode)
-                            AppUtils.initNewUpdateDialog(activity)
-                    }
-                }
-            }
-    }
-
-
-
     private fun changeFabButtonColor(position: Int) {
         when (position % 5) {
             1 -> {
@@ -475,28 +371,4 @@ class HomeActivity : AppCompatActivity(), LanguageListDialogFragment.Listener {
             }
         }
     }
-
-
-    private fun registerTimeReceiver() {
-
-    }
-
-    private fun unRegisterTimeReceiver() {
-        try {
-
-        } catch (exception: Exception) {
-            exception.printStackTrace()
-        }
-    }
-
-    inner class SystemTimeTickReceiver : BroadcastReceiver() {
-
-        override fun onReceive(context: Context?, intent: Intent?) {
-            /*if (bannerAdUtils == null)
-                bannerAdUtils = BannerAdUtils(activity, llAdContainer)
-            if (bannerAdUtils!!.bannerAdStatus == BannerAdStatus.Error)
-                bannerAdUtils!!.initFbBannerAd()*/
-        }
-    }
-
 }

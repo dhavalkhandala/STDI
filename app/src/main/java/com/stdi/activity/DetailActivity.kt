@@ -26,6 +26,7 @@ import androidx.cardview.widget.CardView
 import androidx.core.content.ContextCompat
 
 import com.stdi.R
+import com.stdi.databinding.ActivityDetailBinding
 
 import com.stdi.extras.AppConstants
 import com.stdi.extras.AppUtils
@@ -36,25 +37,13 @@ import java.io.InputStreamReader
 
 
 class DetailActivity : AppCompatActivity() {
-
-    private var now: Long = 0
-
     private val activity: Activity = this
-
-    private var systemTimeTickReceiver: SystemTimeTickReceiver? = null
-
-
     private var fileName: String? = null
     private var position: Int = 0
-
-    val afterMinute: Long = System.currentTimeMillis() + 70000
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detail)
-
-
-
         if (intent.hasExtra(AppConstants.FILE_NAME))
             fileName = intent.getStringExtra(AppConstants.FILE_NAME)
         if (intent.hasExtra(AppConstants.POSITION))
@@ -67,49 +56,7 @@ class DetailActivity : AppCompatActivity() {
 
         initToolbar()
         init()
-
     }
-
-    private fun bannerAdloadAds() {
-
-    }
-    private fun interstitialAdloadAds() {
-
-    }
-
-
-
-    public override fun onStart() {
-        super.onStart()
-
-    }
-
-    public override fun onResume() {
-        super.onResume()
-        registerTimeReceiver()
-    }
-
-    public override fun onPause() {
-        super.onPause()
-
-        unRegisterTimeReceiver()
-    }
-
-    public override fun onStop() {
-        super.onStop()
-
-    }
-
-    override fun onDestroy() {
-        super.onDestroy()
-
-    }
-
-    override fun onBackPressed() {
-            super.onBackPressed()
-
-    }
-
 
     private fun initToolbar() {
         toolbar.title = fileName
@@ -265,33 +212,4 @@ class DetailActivity : AppCompatActivity() {
         cardView.addView(linearLayout)
         llDetail.addView(cardView)
     }
-
-
-    private fun registerTimeReceiver() {
-        if (systemTimeTickReceiver == null) {
-            systemTimeTickReceiver = SystemTimeTickReceiver()
-            registerReceiver(systemTimeTickReceiver, IntentFilter(AppConstants.BROADCAST_TIME_TICK))
-        }
-    }
-
-    private fun unRegisterTimeReceiver() {
-        try {
-            if (systemTimeTickReceiver != null) {
-                unregisterReceiver(systemTimeTickReceiver)
-                systemTimeTickReceiver = null
-            }
-        } catch (exception: Exception) {
-            exception.printStackTrace()
-        }
-    }
-
-    inner class SystemTimeTickReceiver : BroadcastReceiver() {
-
-        override fun onReceive(context: Context?, intent: Intent?) {
-
-        }
-
-    }
-
-
 }

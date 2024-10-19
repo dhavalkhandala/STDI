@@ -1,70 +1,26 @@
 {
   "project_info": {
-    "project_number": "640584569940",
-    "firebase_url": "https://std-and-infections.firebaseio.com",
-    "project_id": "std-and-infections",
-    "storage_bucket": "std-and-infections.appspot.com"
+    "project_number": "558981844591",
+    "project_id": "stdi-ef713",
+    "storage_bucket": "stdi-ef713.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:640584569940:android:0b5252db8892dc2e",
+        "mobilesdk_app_id": "1:558981844591:android:aa39608217f37ad721479a",
         "android_client_info": {
-          "package_name": "com.std"
+          "package_name": "com.espark.stdis"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "640584569940-badfgh1bdlqh6d1qc5bn4dp1jqb1alvc.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDovsAmwHZhfE3k1kq52sQ_zojCmuMDhXk"
+          "current_key": "AIzaSyDCZmvfiLf11yUInD0UB2fWrkqhI9M6uB8"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
           "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:640584569940:android:d9a5d91baf8d2e70",
-        "android_client_info": {
-          "package_name": "com.stdi"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "640584569940-badfgh1bdlqh6d1qc5bn4dp1jqb1alvc.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDovsAmwHZhfE3k1kq52sQ_zojCmuMDhXk"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }

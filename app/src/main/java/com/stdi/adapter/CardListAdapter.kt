@@ -1,24 +1,17 @@
 package com.stdi.adapter
 
 import android.app.Activity
-import android.os.Handler
 import android.text.TextUtils
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.LinearLayout
-import android.widget.Toast
 import androidx.appcompat.widget.AppCompatTextView
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
 import com.stdi.R
-import com.stdi.SharedPref
 import com.stdi.activity.HomeActivity
-import com.stdi.extras.AppUtils
-import java.util.*
-import java.util.concurrent.TimeUnit
-import kotlin.math.log
 
 class CardListAdapter(
     private var activity: Activity,

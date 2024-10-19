@@ -6,7 +6,7 @@ apply plugin: 'kotlin-kapt'
 android {
     compileSdkVersion 34
     defaultConfig {
-        applicationId "com.stdi"
+        applicationId "com.espark.stdis"
         minSdkVersion 19
         targetSdkVersion 34
         versionCode 20
@@ -23,24 +23,8 @@ android {
     }
 
     buildTypes {
-        debug{
-
-            resValue "string", "VERSION_DB_NAME", "version"
-            resValue "string", "Google_Admob_App_ID", GOOGLE_TEST_APP_ID
-            resValue "string", "Google_Admob_Banner_ID", GOOGLE_TEST_BANNER_ADS
-            resValue "string", "Google_Admob_Interstitial_ID", GOOGLE_TEST_INTERSTITIAL_ADS
-            resValue "string", "Google_Admob_App_Open_ID", GOOGLE_TEST_APP_OPEN_ADS
-
-
-
-        }
         release {
-
             resValue "string", "VERSION_DB_NAME", "version"
-            resValue "string", "Google_Admob_App_ID", GOOGLE_LIVE_APP_ID
-            resValue "string", "Google_Admob_Banner_ID", GOOGLE_LIVE_BANNER_ADS
-            resValue "string", "Google_Admob_Interstitial_ID", GOOGLE_LIVE_INTERSTITIAL_ADS
-            resValue  "string", "Google_Admob_App_Open_ID", GOOGLE_LIVE_APP_OPEN_ADS
             minifyEnabled true
             shrinkResources true
             debuggable false
@@ -64,6 +48,7 @@ android {
     }
     buildFeatures {
         viewBinding = true
+        dataBinding = true
     }
 
 }
